@@ -83,10 +83,7 @@ se lograr imitar los acentos y la vida de HH, algo totalmente diferente a un HH 
 
 Sequencia DnB Ejemplo 1      
 
-<!-- SCM Music Player http://scmplayer.net -->
-<script type="text/javascript" src="http://scmplayer.net/script.js" 
-data-config="{'skin':'skins/tunes/skin.css','volume':100,'autoplay':false,'shuffle':false,'repeat':0,'placement':'top','showplaylist':false,'playlist':[]}" ></script>
-<!-- SCM Music Player script end -->
+http://picosong.com/Y78C/
 
 
 <a href="http://es.tinypic.com?ref=29pauqg" target="_blank"><img src="http://i58.tinypic.com/29pauqg.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
