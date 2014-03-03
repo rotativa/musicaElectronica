@@ -58,6 +58,7 @@ Figuras rítmicas importantes
 Técnicas y manipulación del groove
 
 	Amen Break  
+	http://picosong.com/Y7Ka
 
 	Pensar como un baterista
 	
@@ -98,14 +99,19 @@ Analisis de un bajo típico de Dnb
 
 http://www.youtube.com/watch?v=xFkvmZENCmQ    
 
-Pitch Drops envelopes
+Pitch Drops envelopes  
+http://picosong.com/Y7KR
+http://picosong.com/Y7Kf
 
-Wobbles                   
+Wobbles 
+http://picosong.com/Y7Kg
 
    
-Sub Bass                 
+Sub Bass     
+http://picosong.com/Y7K8
 
-El uso de Chorus y detune        
+El uso de Chorus para crear detune     
+http://picosong.com/Y7KN
 
 Low pass, y estabilidad rítmica
 
