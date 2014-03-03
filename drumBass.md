@@ -1,4 +1,3 @@
-
 <a href="http://es.tinypic.com?ref=14ilvo1" target="_blank"><img src="http://i61.tinypic.com/14ilvo1.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
@@ -70,16 +69,17 @@ Técnicas y manipulación del groove
 
 	Elemento Sorpresa y Audio Editing creativo     
 
-	Layering: Esta técnica es muy usada es DnB, se utiliza para crear más contundencia, y tener un sonido más lleno         y rico en armónicos.  consiste en hacer capas con diferentes instrumentos o timbres sobre un mismo 
-	patron rítmico. 
-	Se puede aplicar para un solo instrumento como un redoblante o hasta para toda una bateria acustica con 
-	otra electrónica. o con  loops predeterminados.
+Layering: Esta técnica es muy usada es DnB, se utiliza para crear más contundencia, y tener un sonido 
+más lleno y rico en armónicos.  consiste en hacer capas con diferentes instrumentos o timbres sobre un 
+mismo patron rítmico. 
+Se puede aplicar para un solo instrumento como un redoblante o hasta para toda una bateria acustica con 
+otra electrónica. o con  loops predeterminados.
 
-        Cuando se desea cambiar la afinación de un loop, este puede perder contundencia entonces doblar el kick o
-        el redo es una muy buena opción para recobrar la contundencia.
+Cuando se desea cambiar la afinación de un loop, este puede perder contundencia entonces doblar el kick o 
+el redo es una muy buena opción para recobrar la contundencia.
 
-        Es común ver que al secuenciar ritmos electronicos como DnB se utilizan varios HH. 3 o 4 capas, de esta forma
-        se lograr imitar los acentos y la vida de HH, algo totalmente diferente a un HH tocado en la realidad.
+Es común ver que al secuenciar ritmos electronicos como DnB se utilizan varios HH. 3 o 4 capas, de esta forma
+se lograr imitar los acentos y la vida de HH, algo totalmente diferente a un HH tocado en la realidad.
 
 Sequencia DnB Ejemplo 1      
 
