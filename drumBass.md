@@ -83,7 +83,8 @@ se lograr imitar los acentos y la vida de HH, algo totalmente diferente a un HH 
 
 Sequencia DnB Ejemplo 1      
 
-http://picosong.com/Y78C
+<script type="text/javascript" src="http://cdn.widgetserver.com/syndication/subscriber/InsertWidget.js"></script><script type="text/javascript">if (WIDGETBOX) WIDGETBOX.renderWidget('9eec1be9-a87a-409e-8467-53d5a15ffdf3');</script>
+<noscript>Get the <a href="http://www.widgetbox.com/widget/mp3-player">MP3 Player</a> widget and many other <a href="http://www.widgetbox.com/">great free widgets</a> at <a href="http://www.widgetbox.com">Widgetbox</a>! Not seeing a widget? (<a href="http://support.widgetbox.com/">More info</a>)</noscript>
 
 <a href="http://es.tinypic.com?ref=29pauqg" target="_blank"><img src="http://i58.tinypic.com/29pauqg.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
