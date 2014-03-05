@@ -9,3 +9,8 @@ LFO para los vibratos de los bajos y quiźa modular con fase.
 
 En el mínimal Dubstep poco interés en la melodía.
 “Melody is for fagots, buy a subwoofer”comentario en video de youtube que refleja la cultura.
+
+---
+### Bibliografía:
+
+http://www.soundonsound.com/sos/jul10/articles/dubstep.htm
