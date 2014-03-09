@@ -41,16 +41,16 @@ http://es.wikipedia.org/wiki/Riddim
 
 # Características del Dub:  
 
-Uso de delays con poca sincronía y filtros
-Tempos lentos y tirados para atrás
-Instrumentos acústicos
+El dub está caracterizado por ser una versión de canciones ya existentes.
+Uso particular de reverb y delays con poca sincronía y filtros.
+Tempos lentos y tirados para atrás.
+Instrumentos acústicos.
 Uso de la consola como instrumento, entrando y sacando tracks y jugando con los envíos de Fx a tiempo real 
-(porque en su época no se disponía de automatizaciones)
+(porque en su época no se disponía de automatizaciones).
 
 
 
-Dub en Jamaica 
-Dub en la música electrónica. 
-Técnicas de producción característicos 
+
+
 
 
