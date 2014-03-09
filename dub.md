@@ -1,9 +1,6 @@
 <a href="http://es.tinypic.com?ref=1j1ds1" target="_blank"><img src="http://i57.tinypic.com/1j1ds1.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
-
-# Dub
-
 1977: Lone Ranger -The Answer  http://www.youtube.com/watch?v=mjtetA_gQZA 
 
 1979: General Echo - Titanic   http://www.youtube.com/watch?v=efL8IWe50tU 
@@ -16,6 +13,9 @@
 
 2006: Stephen Marley - The Traffic Jam ft. Damian Marley - http://www.youtube.com/watch?v=iqIn9N_fJJY
 
+
+
+# Dub
 
 La influencia del Dub en la música electrónica es increíble, aunque las conexiones no son tan obvias a primera vista. Dub es un subgénero del reggae, pero es mucho más que eso. Aunque fue inicialmente un tipo de música, 
 luego se convirtió en un conjunto de técnicas con aplicación a todos los estilos. 
