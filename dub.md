@@ -23,7 +23,7 @@ El Dub es una actitud de exploración creativa con las herramientas de edición 
 El ingeniero de sonido cambia su papel como fuente creativa. 
 
 
-Riddim 
+# Riddim 
 
 El Groove de la batería y línea de bajo son la base de la música Dub. 
 Algunos grooves  se volvieron  famosos, y se usaban una y otra vez, añadiendo nuevas letras. 
@@ -39,7 +39,7 @@ Más sobre Riddim
 http://es.wikipedia.org/wiki/Riddim
 
 
-Características del Dub:  
+# Características del Dub:  
 
 Uso de delays con poca sincronía y filtros
 Tempos lentos y tirados para atrás
