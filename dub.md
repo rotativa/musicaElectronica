@@ -10,11 +10,11 @@
 
 1984: Like A Version 
 
-1987: Heart & Mind Soul
+1987: General Trees - Heart Mind And Soul http://www.youtube.com/watch?v=Ph_WoromiCk
 
-1993: No Respect
+1993: BUJU BANTON - NO RESPECT  http://www.youtube.com/watch?v=bhk1a0E_wo4
 
-2006: Traffic Jam
+2006: Stephen Marley - The Traffic Jam ft. Damian Marley - http://www.youtube.com/watch?v=iqIn9N_fJJY
 
 
 La influencia del Dub en la música electrónica es increíble, aunque las conexiones no son tan obvias a primera vista. Dub es un subgénero del reggae, pero es mucho más que eso. Aunque fue inicialmente un tipo de música, luego se convirtió en un conjunto de técnicas con aplicación a todos los estilos. 
