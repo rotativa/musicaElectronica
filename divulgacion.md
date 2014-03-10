@@ -14,7 +14,6 @@ A diferencia de otras músicas que utilizan instrumentos convencionales de vient
 Culturalmente, para aprender sobre diferentes manifestaciones musicales que han sido populares en el mundo entero.
 Musicalmente, es un aporte invaluable para el trabajo del músico, compositor o aficionado, al poder integrar técnicas, sonidos y/o tendencias 
 
-* ¿Qué problema intenta resolver?
-* ¿Porqué es importante para nuestro contexto aprender de eso?
-* ¿Quienes (de medellin) están trabajando este tema, y que los
-caracteriza.?
+### ¿Qué problema intenta resolver?
+### ¿Porqué es importante para nuestro contexto aprender de eso?
+### ¿Quienes (de medellin) están trabajando este tema, y que los caracteriza?
