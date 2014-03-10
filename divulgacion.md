@@ -12,7 +12,7 @@ A diferencia de otras músicas que utilizan instrumentos convencionales de vient
 ### ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
 
 Culturalmente, para aprender sobre diferentes manifestaciones musicales que han sido populares en el mundo entero.
-Musicalmente, es un aporte invaluable para el trabajo del músico, compositor o aficionado, al poder integrar técnicas, sonidos y/o tendencias 
+Musicalmente, es un aporte invaluable para el trabajo del músico, compositor o aficionado, al poder integrar técnicas, sonidos y/o tendencias a cualquier otro género musical.
 
 ### ¿Qué problema intenta resolver?
 ### ¿Porqué es importante para nuestro contexto aprender de eso?
