@@ -1,7 +1,8 @@
-ELECTROCHARLA-
+# Musica Electronica:  
+## Historia, análisis, y técnicas relevantes de diferentes géneros musicales en la música electrónica.
 ==============
 
-Historia, análisis, y técnicas relevantes de diferentes géneros musicales en la música electrónica.
+
 
 * [Drum&Bass](drumBass.md)
 * [Trance](trance.md)
