@@ -60,7 +60,7 @@ Hoy en día se cuenta con delays que simulen todas estas características.
 Sin embargo es posible lograrlo, añadiendo a la salida del delay, un filtro Lowpass con un eq y un chorus para que fluctúe la afinación. 
 Interesantes texturas se pueden lograr con una buena cantidad de feedback.  Para controlar que el volumen se incremente demasiado, le agregamos un limitador al final de la cadena.
 
-
+<a href="http://es.tinypic.com?ref=2i1ywbd" target="_blank"><img src="http://i58.tinypic.com/2i1ywbd.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Es frecuente el uso de los tresillos al setiar el delay.
 
