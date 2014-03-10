@@ -24,8 +24,7 @@ La Curiosidad musical.
 ### ¿Quienes (de medellin) están trabajando este tema, y que los caracteriza?
 
 
-####Blue Art Musique
-https://www.facebook.com/blueartmusique?fref=ts
+####Blue Art Musique   https://www.facebook.com/blueartmusique?fref=ts
 
 ####Zdey Sonido Violeta 
 https://www.facebook.com/ZDEYSONIDOVIOLETA?fref=ts 
