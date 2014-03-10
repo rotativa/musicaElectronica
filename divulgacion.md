@@ -15,5 +15,10 @@ Culturalmente, para aprender sobre diferentes manifestaciones musicales que han 
 Musicalmente, es un aporte invaluable para el trabajo del músico, compositor o aficionado, al poder integrar técnicas, sonidos y/o tendencias a cualquier otro género musical.
 
 ### ¿Qué problema intenta resolver?
+
+La Curiosidad musical.
+
+
 ### ¿Porqué es importante para nuestro contexto aprender de eso?
+
 ### ¿Quienes (de medellin) están trabajando este tema, y que los caracteriza?
