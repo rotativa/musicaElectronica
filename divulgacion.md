@@ -4,12 +4,12 @@ La función de esta parte es que la comunidad general (no educada en el tema)
 se lleve una noción de lo que se trata la temática, esta sección puede
 responder  preguntas de este tipo:
 
-# Que es eso en lenguaje cotidiano
+### Que es eso en lenguaje cotidiano
  
 La música electrónica esta caracterizada por instrumentos electrónicos y tecnología musical electrónica.
 A diferencia de otras músicas que utilizan instrumentos convencionales de viento, cuerdas o percusión, en la música electrónica los instrumentos son los sintetizadores y computadores los más predominantes
 
-# ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
+### ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
 
 Culturalmente, para aprender sobre diferentes manifestaciones musicales que han sido populares en el mundo entero.
 Musicalmente, es un aporte invaluable para el trabajo del músico, compositor o aficionado, al poder integrar técnicas, sonidos y/o tendencias 
