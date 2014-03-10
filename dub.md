@@ -71,9 +71,12 @@ Para controlar que el volumen se incremente demasiado, le agregamos un limitador
 
 
 
-Es frecuente el uso de los tresillos al setiar el delay, y mejor, con varios milisegundos de imprecisión 
+
 
 Otras variaciones comunes:
+
+
+Es frecuente el uso de los tresillos al setiar el delay, y mejor, con varios milisegundos de imprecisión 
 
 Usar cadenas de delay para L y R independiente con seteo diferente.
 
