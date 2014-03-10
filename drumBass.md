@@ -1,4 +1,4 @@
-<a href="http://es.tinypic.com?ref=14ilvo1" target="_blank"><img src="http://i61.tinypic.com/14ilvo1.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="http://i61.tinypic.com/14ilvo1.jpg" border="0" alt="Image and video hosting by TinyPic">
 
 
 # Referentes
@@ -87,7 +87,7 @@ Sequencia DnB Ejemplo 1
 http://picosong.com/Y78C/
 
 
-<a href="http://es.tinypic.com?ref=29pauqg" target="_blank"><img src="http://i58.tinypic.com/29pauqg.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="http://i58.tinypic.com/29pauqg.jpg" border="0" alt="Image and video hosting by TinyPic">
 
 Como hacer un  kick 808 y 909?
 
