@@ -1,6 +1,5 @@
 
 
-
 ### Divulgación
 
 La función de esta parte es que la comunidad general (no educada en el tema)
