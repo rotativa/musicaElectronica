@@ -69,7 +69,19 @@ Para controlar que el volumen se incremente demasiado, le agregamos un limitador
 
 <a href="http://es.tinypic.com?ref=2i1ywbd" target="_blank"><img src="http://i58.tinypic.com/2i1ywbd.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Es frecuente el uso de los tresillos al setiar el delay.
+
+
+Es frecuente el uso de los tresillos al setiar el delay, y mejor, con varios milisegundos de imprecisión 
+
+Otras variaciones comunes:
+
+Usar cadenas de delay para L y R independiente con seteo diferente.
+Automatización de los milisegundos o unidades métricas (1/4, 1/8, etc.)
+Automatizar el filtro LowPass lentamente para lograr barridos de frecuencia y darle movimiento. 
+
+
+
+
 
 
 
