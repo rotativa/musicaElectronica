@@ -27,9 +27,9 @@ La Curiosidad musical.
 ####Blue Art Musique
 https://www.facebook.com/blueartmusique?fref=ts
 
-###Zdey Sonido Violeta 
+####Zdey Sonido Violeta 
 https://www.facebook.com/ZDEYSONIDOVIOLETA?fref=ts 
 
-###Federico Goes 
+####Federico Goes 
 https://www.facebook.com/federico.goes.3?fref=ts 
 
