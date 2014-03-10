@@ -76,7 +76,9 @@ Es frecuente el uso de los tresillos al setiar el delay, y mejor, con varios mil
 Otras variaciones comunes:
 
 Usar cadenas de delay para L y R independiente con seteo diferente.
+
 Automatización de los milisegundos o unidades métricas (1/4, 1/8, etc.)
+
 Automatizar el filtro LowPass lentamente para lograr barridos de frecuencia y darle movimiento. 
 
 
