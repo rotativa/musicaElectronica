@@ -85,3 +85,10 @@ Automatizar el filtro LowPass lentamente para lograr barridos de frecuencia y da
 
 
 
+
+
+
+
+
+
+
