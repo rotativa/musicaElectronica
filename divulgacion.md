@@ -1,5 +1,4 @@
 
-
 ### Divulgación
 
 La función de esta parte es que la comunidad general (no educada en el tema)
@@ -10,5 +9,5 @@ responder  preguntas de este tipo:
 * ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
 * ¿Qué problema intenta resolver?
 * ¿Porqué es importante para nuestro contexto aprender de eso?
-* ¿Quienes (de nuestro contexto) están trabajando este tema, y que los
+* ¿Quienes (de medellin) están trabajando este tema, y que los
 caracteriza.?
