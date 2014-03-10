@@ -22,3 +22,14 @@ La Curiosidad musical.
 ### ¿Porqué es importante para nuestro contexto aprender de eso?
 
 ### ¿Quienes (de medellin) están trabajando este tema, y que los caracteriza?
+
+
+####Blue Art Musique
+https://www.facebook.com/blueartmusique?fref=ts
+
+###Zdey Sonido Violeta 
+https://www.facebook.com/ZDEYSONIDOVIOLETA?fref=ts 
+
+###Federico Goes 
+https://www.facebook.com/federico.goes.3?fref=ts 
+
