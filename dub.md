@@ -50,7 +50,19 @@ Uso de la consola como instrumento, entrando y sacando tracks y jugando con los 
 
 
 
+#  TECNICAS
 
+## Dub Delay:
+
+Esta técnica consiste en alimentar un delay con un track deseado y luego automatizar su volumen para que salga y entre a gusto personal.
+Al ser el dub es un genero de finales de los 70, los delays estaban en desarrollo, funcionaban con cintas que se repetían y se desgastaban con el uso, esto hacia que sonara un poco opaco y con fluctuaciones de afinación.
+Hoy en día se cuenta con delays que simulen todas estas características.
+Sin embargo es posible lograrlo, añadiendo a la salida del delay, un filtro Lowpass con un eq y un chorus para que fluctúe la afinación. 
+Interesantes texturas se pueden lograr con una buena cantidad de feedback.  Para controlar que el volumen se incremente demasiado, le agregamos un limitador al final de la cadena.
+
+
+
+Es frecuente el uso de los tresillos al setiar el delay.
 
 
 
