@@ -25,15 +25,15 @@
 [2009: Silicon  ]          ( http://www.youtube.com/watch?v=iCuVrF705sI)
 
 
-Particularidades   (Tomado de la encuesta del curso de berklee)
+####Particularidades   (Tomado de la encuesta del curso de berklee)
 
-	Tempo 160 - 180 BPM
+Tempo 160 - 180 BPM
 
-	Tonalidad Menor
+Tonalidad Menor
 
-	Mucho empleo de Sub Bass, Layering, Fx atmosfericos, samples  ("Jazz Factor" y polimodos y locura!)     
+Mucho empleo de Sub Bass, Layering, Fx atmosfericos, samples  ("Jazz Factor" y polimodos y locura!)     
 
-	Usualmente de contenido político o callejero
+Usualmente de contenido político o callejero
 
               
 
@@ -42,35 +42,38 @@ Particularidades   (Tomado de la encuesta del curso de berklee)
 
                   
 
-Figuras rítmicas importantes
+####Figuras rítmicas importantes
 
-	Sincopa: acentuación de una nota en un lugar débil o semifuerte de un compás.
+Sincopa: acentuación de una nota en un lugar débil o semifuerte de un compás.
 
-	Frases de tres (desplazamientos rítmicos)
+Frases de tres (desplazamientos rítmicos)
 
-	Tresillos
+Tresillos
 
-	Ejemplos (Youtube)
+Ejemplos (Youtube)
 
 
                         
 
-Técnicas y manipulación del groove
+####Técnicas y manipulación del groove
 
-	Amen Break  
-	http://picosong.com/Y7Ka
+[Amen Break](http://picosong.com/Y7Ka)
 
-	Pensar como un baterista
+Pensar como un baterista
 	
-	Calcando el groove
+Calcando el groove
 
-	Extraccion del groove en Midi           
+Extraccion del groove en Midi           
 	
-	Sampling
+Sampling
 
-	Elemento Sorpresa y Audio Editing creativo     
+Elemento Sorpresa y Audio Editing creativo     
 
-Layering: Esta técnica es muy usada es DnB, se utiliza para crear más contundencia, y tener un sonido 
+
+
+####Layering:
+
+Esta técnica es muy usada es DnB, se utiliza para crear más contundencia, y tener un sonido 
 más lleno y rico en armónicos.  consiste en hacer capas con diferentes instrumentos o timbres sobre un 
 mismo patron rítmico. 
 Se puede aplicar para un solo instrumento como un redoblante o hasta para toda una bateria acustica con 
@@ -87,11 +90,11 @@ se lograr imitar los acentos y la vida de HH, algo totalmente diferente a un HH 
 
 <img src="http://i58.tinypic.com/29pauqg.jpg" border="0" alt="Image and video hosting by TinyPic">
 
-Como hacer un  kick 808 y 909?
+####Como hacer un  kick 808 y 909?
 
                               
 
-El Bajo
+####El Bajo
 
 [Analisis de un bajo típico de Dnb](http://www.youtube.com/watch?v=xFkvmZENCmQ )
 
@@ -112,7 +115,7 @@ Ataque lento
 
     
 
-Lead Bass
+####Lead Bass
 
 una octava arriba del sub
 
@@ -120,7 +123,8 @@ staccato, pluck y poliritmia
 
 Mas movimiento
 
-Drum N Bass Link y Recursos:
+
+####Drum N Bass Link y Recursos:
 
 http://www.beatport.com/genre/drum-and-bass/1
 
@@ -128,13 +132,13 @@ Algunos de los Pioneros
 
 http://en.wikipedia.org/wiki/Genaside_II
 
-Documentales:
+####Documentales:
 
 http://www.youtube.com/watch?v=rw-tRL9PUNg
 
 http://www.youtube.com/watch?v=O4SdNOhr64Q&list=PL40D1671F2E945221&index=9
 
-Foros y comunidad
+####Foros y comunidad
 
 http://www.bassfreq.net/home
 
@@ -146,7 +150,7 @@ http://www.bassdrive.com/v2/
 
 http://www.kmag.co.uk/
 
-Produccion:
+####Produccion:
 
 http://www.youtube.com/watch?v=3YDhvf-Ovlc&list=PL40D1671F2E945221&index=1
 
@@ -156,7 +160,7 @@ http://www.youtube.com/watch?v=zj9jTc_A1Ew&list=PL40D1671F2E945221&index=4
 
 http://www.youtube.com/watch?v=Pe3Kg52uqNs&list=PL40D1671F2E945221&index=5              
 
-Musica:
+####Musica:
 
 http://www.youtube.com/user/UKFDrumandBass
 
