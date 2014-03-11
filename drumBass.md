@@ -4,25 +4,25 @@
 # Referentes
 
 
-1990: Spliffhead           http://www.youtube.com/watch?v=_LNOMxqJUn0
+[1990: Spliffhead]          ( http://www.youtube.com/watch?v=_LNOMxqJUn0)
 
-1992: Terminator           http://www.youtube.com/watch?v=OnzP4F9SqvQ
+[1992: Terminator]          (  http://www.youtube.com/watch?v=OnzP4F9SqvQ)
 
-1995: Horizons         http://www.youtube.com/watch?v=R7eAQOYSXmY
+[1995: Horizons    ]    (  http://www.youtube.com/watch?v=R7eAQOYSXmY)
 
-1996: Trippin' on Broken Beats http://www.youtube.com/watch?v=rPQHJ14o0AQ
+[1996: Trippin' on Broken Beats](  http://www.youtube.com/watch?v=rPQHJ14o0AQ)
 
-1997: I am the Black Gold of the sun  http://www.youtube.com/watch?v=aYBT90PFmoM
+[1997: I am the Black Gold of the sun] (  http://www.youtube.com/watch?v=aYBT90PFmoM)
 
-1997: Vic Acid         http://www.youtube.com/watch?v=QEboyCrygv8
+[1997: Vic Acid ]        ( http://www.youtube.com/watch?v=QEboyCrygv8)
 
-1998: Imagination           http://www.youtube.com/watch?v=757SbRSPzeI
+[1998: Imagination ]         (  http://www.youtube.com/watch?v=757SbRSPzeI)
 
-2005: Szerencsetlen        http://www.youtube.com/watch?v=vg52OSGmg7g
+[2005: Szerencsetlen ]      (  http://www.youtube.com/watch?v=vg52OSGmg7g)
 
-2007: Hidden Killer        http://www.youtube.com/watch?v=q_D9u8FAoZM
+[2007: Hidden Killer  ]      ( http://www.youtube.com/watch?v=q_D9u8FAoZM)
 
-2009: Silicon            http://www.youtube.com/watch?v=iCuVrF705sI
+[2009: Silicon  ]          ( http://www.youtube.com/watch?v=iCuVrF705sI)
 
 
 Particularidades   (Tomado de la encuesta del curso de berklee)
@@ -82,9 +82,7 @@ el redo es una muy buena opción para recobrar la contundencia.
 Es común ver que al secuenciar ritmos electronicos como DnB se utilizan varios HH. 3 o 4 capas, de esta forma
 se lograr imitar los acentos y la vida de HH, algo totalmente diferente a un HH tocado en la realidad.
 
-Sequencia DnB Ejemplo 1      
-
-http://picosong.com/Y78C/
+[Sequencia DnB Ejemplo 1   ](http://picosong.com/Y78C/)
 
 
 <img src="http://i58.tinypic.com/29pauqg.jpg" border="0" alt="Image and video hosting by TinyPic">
@@ -95,23 +93,18 @@ Como hacer un  kick 808 y 909?
 
 El Bajo
 
-Analisis de un bajo típico de Dnb
+[Analisis de un bajo típico de Dnb](http://www.youtube.com/watch?v=xFkvmZENCmQ )
 
-http://www.youtube.com/watch?v=xFkvmZENCmQ    
+[Pitch Drops envelopes 1](http://picosong.com/Y7KR)
 
-Pitch Drops envelopes  
-http://picosong.com/Y7KR
-http://picosong.com/Y7Kf
+[Pitch Drops envelopes 2](http://picosong.com/Y7Kf)
 
-Wobbles 
-http://picosong.com/Y7Kg
+[Wobbles ](http://picosong.com/Y7Kg)
 
    
-Sub Bass     
-http://picosong.com/Y7K8
+[Sub Bass ](http://picosong.com/Y7K8)
 
-El uso de Chorus para crear detune     
-http://picosong.com/Y7KN
+[El uso de Chorus para crear detune ](http://picosong.com/Y7KN)
 
 Low pass, y estabilidad rítmica
 
