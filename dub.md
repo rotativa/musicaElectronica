@@ -1,4 +1,4 @@
-<a href="http://es.tinypic.com?ref=1j1ds1" target="_blank"><img src="http://i57.tinypic.com/1j1ds1.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="http://i57.tinypic.com/1j1ds1.jpg" border="0" alt="Image and video hosting by TinyPic">
 
 
 1977: Lone Ranger -The Answer  http://www.youtube.com/watch?v=mjtetA_gQZA 
@@ -67,7 +67,7 @@ y un chorus para que fluctúe la afinación.
 Interesantes texturas se pueden lograr con una buena cantidad de feedback.  
 Para controlar que el volumen se incremente demasiado, le agregamos un limitador al final de la cadena.
 
-<a href="http://es.tinypic.com?ref=2i1ywbd" target="_blank"><img src="http://i58.tinypic.com/2i1ywbd.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="http://i58.tinypic.com/2i1ywbd.jpg" border="0" alt="Image and video hosting by TinyPic">
 
 
 
