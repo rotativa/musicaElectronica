@@ -25,7 +25,7 @@
 [2009: Silicon  ]          ( http://www.youtube.com/watch?v=iCuVrF705sI)
 
 
-####Particularidades   (Tomado de la encuesta del curso de berklee)
+####Particularidades 
 
 Tempo 160 - 180 BPM
 
