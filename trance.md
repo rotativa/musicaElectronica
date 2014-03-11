@@ -1,6 +1,5 @@
 
-
-<a href="http://es.tinypic.com?ref=2db7234" target="_blank"><img src="http://i57.tinypic.com/2db7234.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="http://i57.tinypic.com/2db7234.jpg" border="0" alt="Image and video hosting by TinyPic">
 
 
 
