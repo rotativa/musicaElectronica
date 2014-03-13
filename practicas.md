@@ -12,10 +12,9 @@ problema.
 
 
 [Ritmo 1](ritmo1.md)     
-[Sintesis 1](sintesis1.md)
-
-[]()
-
-[]()
-
-[]()
+[Sintesis 1](sintesis1.md)  
+[sintesis 2](sintesis2.md)    
+[sintesis3.md](sintesis3.md)  
+[sintesis4.md](sintesis4.md)   
+[sintesis5.md](sintesis5.md)  
+[sintesis6.md](sintesis6.md)   
