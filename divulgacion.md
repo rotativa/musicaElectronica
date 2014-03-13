@@ -21,12 +21,16 @@ La Curiosidad musical.
 
 ### ¿Porqué es importante para nuestro contexto aprender de eso?
 
+¿Por qué es importante para nuestro contexto aprender de eso?
+Porque refleja la evolución que el hombre le ha dado la música estas ultimas decadas por medio de la tecnología como herramienta.
+
+
 ### ¿Quienes (de medellin) están trabajando este tema, y que los caracteriza?
 
 
-####Blue Art Musique   https://www.facebook.com/blueartmusique?fref=ts
+#### [Blue Art Musique](https://www.facebook.com/blueartmusique?fref=ts)
 
-####Zdey Sonido Violeta  https://www.facebook.com/ZDEYSONIDOVIOLETA?fref=ts 
+#### [Zdey Sonido Violeta](https://www.facebook.com/ZDEYSONIDOVIOLETA?fref=ts)
 
-####Federico Goes         https://www.facebook.com/federico.goes.3?fref=ts 
+#### [Federico Goes](https://www.facebook.com/federico.goes.3?fref=ts)
 
