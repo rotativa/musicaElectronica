@@ -17,4 +17,4 @@ problema.
 [Secuenciador](secuenciador.md)   
 [Sintetizador](sintetizador.md)    
 [Tecnicas](tecnicas.md)   
-[sintesis 6](sintesis6.md)    
+   
