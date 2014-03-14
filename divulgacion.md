@@ -28,7 +28,16 @@ La Curiosidad musical.
 
 ### ¿Porqué es importante para nuestro contexto aprender de esto?
 
-Porque refleja la evolución que el hombre le ha dado la música estas ultimas décadas por medio de la tecnología como herramienta.
+La música se ha vuelto vital en nuestras vidas, la escuchas en todos lados. 
+Que seria de la radio, la tv, la publicidad, las iglesias, el trabajo, el descanso o el ocio sin música?
+Tiene un gran impacto sobre nuestros estados de ánimo que hasta terapéutico se ha vuelto.
+
+Mas intenso aun, es experimentar la música desde adentro haciendo parte de ella, ya sea bailando componiendo o interpretándola. 
+La sensación es única, enriquecedora y reconfortante, alimenta el alma.
+
+Por esto, la posibilidad de que la gente pueda experimentar otras formas de sentir la música, y generar un click de pasión por seguir aprendiendo, es lo que se pretende con esta escuela. 
+Es sin duda alguna una herramienta, y otra opción para los jóvenes de nuestra ciudad.
+
 
 
 
