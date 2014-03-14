@@ -6,8 +6,15 @@ responder  preguntas de este tipo:*
 
 ### Música Electrónica
  
-La música electrónica esta caracterizada por instrumentos electrónicos y tecnología musical electrónica.
-A diferencia de otras músicas que utilizan instrumentos convencionales de viento, cuerdas o percusión, en la música electrónica los instrumentos son los sintetizadores y computadores los más predominantes
+La música electrónica esta caracterizada por emplear en su totalidad instrumentos electrónicos. A diferencia de otras músicas que utilizan instrumentos convencionales de viento, cuerdas o percusión,
+en la música electrónica los instrumentos son los sintetizadores y computadores los más predominantes.
+Imagina crear una batería, un bajo, una guitarra, trompetas o cualquier otro instrumento con computador,  sonando como una banda real y siendo tu, el director!
+O que tal que pudieras personalizar el sonido de cualquier instrumento, tan diferente, 
+como si fuera música espacial!
+O tal vez convertir tu voz en un robot, un monstro o un árbol para tu propia película de ficción! 
+
+Hoy en día es posible, con un computador  y  un poco de y conocimientos de música electrónica.
+
 
 ### ¿Para qué sirve la música electrónica en la vida cotidiana (o no tan cotidiana)?
 
@@ -21,7 +28,7 @@ La Curiosidad musical.
 
 ### ¿Porqué es importante para nuestro contexto aprender de esto?
 
-Porque refleja la evolución que el hombre le ha dado la música estas ultimas decadas por medio de la tecnología como herramienta.
+Porque refleja la evolución que el hombre le ha dado la música estas ultimas décadas por medio de la tecnología como herramienta.
 
 
 
