@@ -12,8 +12,8 @@ problema.
 <img src="http://i61.tinypic.com/r94qvs.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 [Ritmo 1](ritmo1.md)     
-[Sintesis 1](sintesis1.md)  
-[sintesis 2](sintesis2.md)    
+[Armonia](armonia.md)  
+[Melodia](melodia.md)    
 [sintesis 3](sintesis3.md)   
 [sintesis 4](sintesis4.md)    
 [sintesis 5](sintesis5.md)   
