@@ -15,6 +15,6 @@ problema.
 [Armonia](armonia.md)  
 [Melodia](melodia.md)    
 [Secuenciador](secuenciador.md)   
-[sintetizador](sintetizador.md)    
-[tecnicas](tecnicas.md)   
+[Sintetizador](sintetizador.md)    
+[Tecnicas](tecnicas.md)   
 [sintesis 6](sintesis6.md)    
