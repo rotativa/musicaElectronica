@@ -22,10 +22,14 @@ Bombo, redoblante, HH, toms, y Crash
 
 Podemos pensar en la batería como una casa, que tiene: cimientos, paredes, techo, fachada, terraza, etc.
 Pregunta 1: Que instrumento de la batería asociarías como cimientos?
-Empezamos!
-Pongamos un metrónomo y llevemos su pulso con las palmas.
-Ahora intercalemos estas palmas entre dos personas.
-Una tercera persona Hará lo mismo que sus dos compañeros, y al doble de la velocidad. 
+
+###Empezamos!
+
+* Pongamos un metrónomo y llevemos su pulso con las palmas.
+
+* Ahora intercalemos estas palmas entre dos personas.
+
+* Una tercera persona Hará lo mismo que sus dos compañeros, y al doble de la velocidad. 
 Lo hará golpeando la mesa con el dedo índice.
 
 
