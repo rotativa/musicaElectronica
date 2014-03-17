@@ -9,7 +9,7 @@ es decir, el tercer problema puede usar herramientas del primer y segundo
 problema.
 
 
-<img src="http://i61.tinypic.com/r94qvs.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 
 ###[Ritmo](ritmo1.md)     
 ###[Armonia](armonia.md)  
