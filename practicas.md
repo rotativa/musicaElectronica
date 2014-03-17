@@ -11,7 +11,14 @@ problema.
 
 
 
-###[Ritmo](ritmo1.md)     
+###Ritmo   
+
+Vamos a construir un ritmo básico para house o trance.
+Este ritmo los hacemos con una batería y sus elementos.
+Bombo, redoblante, HH, toms, y Crash 
+
+<img src="http://i58.tinypic.com/2w2kk9e.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
 ###[Armonia](armonia.md)  
 ###[Melodia](melodia.md)    
 ###[Secuenciador](secuenciador.md)   
