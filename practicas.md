@@ -32,7 +32,9 @@ Pregunta 1: Que instrumento de la batería asociarías como cimientos?
 * Una tercera persona Hará lo mismo que sus dos compañeros, y al doble de la velocidad.
 Lo hará golpeando la mesa con el dedo índice.
 
+*Ahora con estos tres instrumentos (personas) asignaremos cada una al bombo, redoblante y HH
 
+*Sabes a que instrumento corresponde cada persona?* 
 
 
 
