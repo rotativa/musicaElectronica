@@ -23,7 +23,19 @@ Musicalmente, es un aporte invaluable para el trabajo del músico, compositor o 
 
 ### ¿Qué problema intenta resolver la música electrónica?
 
-La Curiosidad musical.
+
+Baile sin fin
+
+Ancestralmente, en la música tribal, sucedían rituales con tambores que usaban patrones rítmicos que duraban lo que fuera necesario, luego con la llegada de la música grabada, las canciones tenían una duración fija que al finalizar frustraba a quien estuviera muy feliz bailando , tanto el Dj con su habilidad de mezclar varias piezas sin perder el beat, o la música construida con secuenciadores (303, 808, MPC, etc) permiten extender el ritmo tanto como el ambiente lo requiera.
+Sonidos de la imaginación
+
+Durante muchos años solo era posible hacer música con los sonidos existentes en la naturaleza producto de maderas, cuerdas, cosas para soplar, golpear, rozar.
+Con la llegada de los sintetizadores fue posible expandir el horizonte sonoro creando timbres nunca antes imaginados, crear sonidos se volvió un arte, incluso hay géneros como el ..(Trance, IDM, Dubstep) basados en paisajes sonoros que por si mismos son fascinantes.
+
+
+Anteriormente no era posible tomar una porción de una canción para poder extenderla o para generar una nueva.
+De esta necesidad surgieron la técnica del Sampling y el sampler, (Instrumento que toma muestras digitales permitiendo editarlas y las reproducirlas versátilmente.) dando origen al Remix. (mezcla alternativa de una canción)
+
 
 
 ### ¿Porqué es importante para nuestro contexto aprender de esto?
