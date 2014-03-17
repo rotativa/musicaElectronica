@@ -29,7 +29,7 @@ Pregunta 1: Que instrumento de la batería asociarías como cimientos?
 
 * Ahora intercalemos estas palmas entre dos personas.
 
-* Una tercera persona Hará lo mismo que sus dos compañeros, y al doble de la velocidad. 
+* Una tercera persona Hará lo mismo que sus dos compañeros, y al doble de la velocidad.
 Lo hará golpeando la mesa con el dedo índice.
 
 
