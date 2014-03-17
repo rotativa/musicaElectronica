@@ -21,7 +21,8 @@ Bombo, redoblante, HH, toms, y Crash
 
 
 Podemos pensar en la batería como una casa, que tiene: cimientos, paredes, techo, fachada, terraza, etc.
-Pregunta 1: Que instrumento de la batería asociarías como cimientos?
+
+*Que instrumento de la batería asociarías como cimientos?*
 
 ###Empezamos!
 
