@@ -33,11 +33,12 @@ Podemos pensar en la batería como una casa, que tiene: cimientos, paredes, tech
 * Una tercera persona Hará lo mismo que sus dos compañeros, y al doble de la velocidad.
 Lo hará golpeando la mesa con el dedo índice.
 
-*Ahora con estos tres instrumentos (personas) asignaremos cada una al bombo, redoblante y HH
+* Ahora con estos tres instrumentos (personas) asignaremos cada una al bombo, redoblante y HH
 
 *Sabes a que instrumento corresponde cada persona?* 
 
 * Cambiemos un poco el HH tocando solamente los golpes pares. Y hagamos todo el ritmo a un tempo muy lento.  
+* 
 *Que observaciones tienes?*
 
 
