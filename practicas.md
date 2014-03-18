@@ -37,6 +37,9 @@ Lo hará golpeando la mesa con el dedo índice.
 
 *Sabes a que instrumento corresponde cada persona?* 
 
+* Cambiemos un poco el HH tocando solamente los golpes pares. Y hagamos todo el ritmo a un tempo muy lento.  
+*Que observaciones tienes?*
+
 
 
 ###[Armonia](armonia.md)  
