@@ -42,6 +42,26 @@ Lo hará golpeando la mesa con el dedo índice.
 *Que observaciones tienes?*
 
 
+##FILLS 
+
+Un fill o redoble es una figura rítmica que se usa para separar, concluir o acentuar partes.
+
+Intentemos este:
+
+* Tomando como base el ritmo anterior, cambiemos únicamente el bombo y el redoblante haciendo ambos el pulso.  
+
+* Ahora dupliquemos el pulso con el bombo y el redo
+
+* Dupliquemos nuevamente lo anterior.
+
+* Ahora juntemos todo: hagamos que la primera parte dure un compas y las dos ultimas aceleraciones, otro compas.
+
+*Como harías un fill de 4 compases?*
+
+*Como harías un fill de 8 compases?*
+
+
+
 
 ###[Armonia](armonia.md)  
 ###[Melodia](melodia.md)    
