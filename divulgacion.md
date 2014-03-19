@@ -8,13 +8,12 @@ responder  preguntas de este tipo:*
  
 La música electrónica esta caracterizada por emplear en su totalidad instrumentos electrónicos. A diferencia de otras músicas que utilizan instrumentos convencionales de viento, cuerdas o percusión,
 en la música electrónica los instrumentos son los sintetizadores y computadores los más predominantes.
-Imagina crear una batería, un bajo, una guitarra, trompetas o cualquier otro instrumento con computador,  sonando como una banda real y siendo tu, el director!
-O que tal que pudieras personalizar el sonido de cualquier instrumento, tan diferente, 
-como si fuera música espacial!
-O tal vez convertir tu voz en un robot, un monstro o un árbol para tu propia película de ficción! 
 
-Hoy en día es posible, con un computador  y  un poco de y conocimientos de música electrónica.
+<img src="http://i58.tinypic.com/14njr0p.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
+<img src="http://i57.tinypic.com/657vcx.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<img src="http://i57.tinypic.com/2ihqrgh.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Anteriormente, los compositores experimentaban con las tecnologías musicales  emergentes, pero eran engorrosas y nada portátiles.
 Con la aparición de las  grabaciones en cinta magnética, los ruidos cotidianos y de la naturaleza  fueron base para las primeras manifestaciones musicales electrónicas.
