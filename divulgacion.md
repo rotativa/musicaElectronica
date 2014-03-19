@@ -33,7 +33,22 @@ Los softwares musicales avanzan vertiginosamente logrando una calidad sonora alt
 
 
 
-La música electrónica ha tenido una gran evolución y variedad de subgéneros,desde lo culto, experimental o filosófico, hasta lo popular como la música electrónica de baile.
+La música electrónica ha tenido una gran evolución y variedad de géneros y subgeneros, desde lo culto, experimental o filosófico, hasta lo popular como la música electrónica de baile.
+
+De esta última es lo que expondré a continuación:
+
+
+###Drum&Bass
+
+###Trance
+
+###Dub
+
+###Dubstep
+
+###DM
+
+###Ambient
 
 
 
