@@ -23,7 +23,13 @@ Un siguiente paso fue crear música con señales sintetizadas, para más adelant
 <img src="http://i57.tinypic.com/zxunsw.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Solo hasta finales de los años 1960, la música electrónica se fue popularizando gracias a los bajos costos tecnológicos.
-La música electrónica presenta una gran variedad de subgéneros, desde lo culto, experimental o filosófico, hasta lo popular como la música electrónica de baile.
+
+
+En los ochentas nació el MIDI (Musical Instrument Digital Interface). Este importantísimo  avance permitía comunicar y controlar de manera sincronizada las maquinas entre sí.
+
+
+La música electrónica ha tenido una gran evolución y variedad de subgéneros,desde lo culto, experimental o filosófico, hasta lo popular como la música electrónica de baile.
+
 
 
 
