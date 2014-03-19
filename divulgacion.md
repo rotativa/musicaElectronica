@@ -16,6 +16,18 @@ O tal vez convertir tu voz en un robot, un monstro o un árbol para tu propia pe
 Hoy en día es posible, con un computador  y  un poco de y conocimientos de música electrónica.
 
 
+Anteriormente, los compositores experimentaban con las tecnologías musicales  emergentes, pero eran engorrosas y nada portátiles.
+Con la aparición de las  grabaciones en cinta magnética, los ruidos cotidianos y de la naturaleza  fueron base para las primeras manifestaciones musicales electrónicas.
+Un siguiente paso fue crear música con señales sintetizadas, para más adelante combinar estas sonoridades con instrumentos reales y hasta generar sonidos con algoritmos matemáticos  con ayuda de computadoras
+
+
+<img src="http://i57.tinypic.com/zxunsw.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Solo hasta finales de los años 1960, la música electrónica se fue popularizando gracias a los bajos costos tecnológicos.
+La música electrónica presenta una gran variedad de subgéneros, desde lo culto, experimental o filosófico, hasta lo popular como la música electrónica de baile.
+
+
+
 ### ¿Para qué sirve la música electrónica en la vida cotidiana (o no tan cotidiana)?
 
 Culturalmente, para aprender sobre diferentes manifestaciones musicales que han sido populares en el mundo entero.
