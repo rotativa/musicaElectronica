@@ -25,10 +25,11 @@ Un siguiente paso fue crear música con señales sintetizadas, para más adelant
 Solo hasta finales de los años 1960, la música electrónica se fue popularizando gracias a los bajos costos tecnológicos.
 
 
-En los ochentas nació el MIDI (Musical Instrument Digital Interface). Este importantísimo  avance permitía comunicar y controlar de manera sincronizada las maquinas entre sí.
+En los ochentas nació el MIDI (Musical Instrument Digital Interface). Este importantísimo avance permitía comunicar y controlar de manera sincronizada las maquinas entre sí.
 
 Nuevos avances de las últimas décadas implementan sensores que miden los movimientos físicos del músico para convertirse en órdenes musicales a tiempo real.
-Los softwares musicales avanzan vertiginosamente logrando una calidad sonora altísima y además, simular hardware de manera virtual, dando lugar a una nueva revolución en las herramientas electrónicas, e incrementando masivamente la producción musical casera.   Tanto así, que ya todo esto esta disponible en nuestros celulares.
+
+Los softwares musicales avanzan vertiginosamente logrando una calidad sonora altísima y además, simular hardware de manera virtual, dando lugar a una nueva revolución en las herramientas electrónicas, e incrementando masivamente la producción musical casera. Tanto así, que ya todo esto esta disponible en nuestros celulares.
 
 
 
