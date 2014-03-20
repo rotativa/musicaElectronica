@@ -24,7 +24,7 @@ Es el responsable del baile, el carácter y pasión. Analizaremos su estructura 
 
 ####Ambientación: 
 
-Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto podemos  crear intenciones,texturas y/o estados de ánimo,  dependiendo del manejo.
+Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto crearemos intenciones,texturas y/o estados de ánimo.
 
 ####Innovación:
 
