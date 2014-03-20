@@ -6,7 +6,7 @@
 
 #LOS SONIDOS DEL FUTURO
 
-####*La música electrónica está en enorme expansión, integrándose y fusionándose con todo a su paso generando nuevas tendencias.  Bienvenidos a la música del futuro!*
+#####*La música electrónica está en enorme expansión, integrándose y fusionándose con todo a su paso generando nuevas tendencias.  Bienvenidos a la música del futuro!*
 
 
 
@@ -14,18 +14,17 @@
 
 
 
-###Las bases 
 
 El énfasis de esta lectura estará enfocado en estos tres conceptos: 
 
-####Ritmo: 
+#####Ritmo: 
 Es el responsable del baile, el carácter y pasión. Analizaremos su estructura y su flujo.
 
-####Ambientación: 
+#####Ambientación: 
 
 Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto crearemos intenciones,texturas y/o estados de ánimo.
 
-####Innovación:
+#####Innovación:
 
 Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento
 
