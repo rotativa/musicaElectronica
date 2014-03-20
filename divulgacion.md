@@ -4,6 +4,41 @@
 se lleve una noción de lo que se trata la temática, esta sección puede
 responder  preguntas de este tipo:*
 
+
+
+
+#titulo atractivo
+
+####140 con los tres conceptos innovacion flujo del ritmo ambientacion
+
+
+
+
+###parrafo 2 
+400 caracteres aprox con los tres conceptos con algo que enganche
+
+
+
+
+blog con las respuestas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Música Electrónica
  
 La música electrónica esta caracterizada por emplear en su totalidad instrumentos electrónicos. A diferencia de otras músicas que utilizan instrumentos convencionales de viento, cuerdas o percusión,
