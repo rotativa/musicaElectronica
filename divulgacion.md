@@ -1,9 +1,7 @@
 ### Divulgación
 
 *La función de esta parte es que la comunidad general (no educada en el tema)
-se lleve una noción de lo que se trata la temática, esta sección puede
-responder  preguntas de este tipo:*
-
+se lleve una noción de lo que se trata la temática.
 
 
 
