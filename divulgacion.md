@@ -14,7 +14,7 @@ El énfasis de estas lecturas estará enfocado en estos tres conceptos:
 **La ambientación:** Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto crearemos intenciones,texturas y/o estados de ánimo.
 **La Innovación:** Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento.
 
-El que adquiera estos conceptos y los use, tendrá el poder para hacer vibrar el mundo!
+El que adquiera estos conceptos y los use correctamente, tendrá el poder para hacer vibrar el mundo!
 
 Comencemos...
 
