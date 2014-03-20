@@ -35,8 +35,10 @@ Los softwares musicales avanzan vertiginosamente logrando una calidad sonora alt
 
 La música electrónica ha tenido una gran evolución y variedad de géneros y subgeneros, desde lo culto, experimental o filosófico, hasta lo popular como la música electrónica de baile.
 
-De esta última es lo que expondré a continuación:
+<img src="http://i57.tinypic.com/2qwzmkp.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
+
+Nos centraremos en los generos mas predominantes de la música electrónica de baile.
 
 ###Drum&Bass
 
