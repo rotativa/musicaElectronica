@@ -18,6 +18,10 @@ Analizaremos su estructura y su flujo.
 
 <img src="http://i59.tinypic.com/2v81k54.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
+Un "break" es un segmento rítmico, de corta duración. Su uso consiste en que extraerlos de una canción y repetirlo  en forma de loop.
+Fueron pieza clave para el nacimiento y mutación de muchos generos como el Jungle, Drum&Bass, Breakbeat entre otros.
+
+
 **La ambientación:** Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto crearemos intenciones,texturas y/o estados de ánimo.
 **La Innovación:** Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento.
 
