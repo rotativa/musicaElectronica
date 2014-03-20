@@ -20,7 +20,7 @@
 El énfasis de esta lectura estará enfocado en estos tres conceptos: 
 
 ####Ritmo: 
-Es el responsable del baile, el carácter y pasión.
+Es el responsable del baile, el carácter y pasión. Analizaremos su estructura y su flujo.
 
 ####Ambientación: 
 
