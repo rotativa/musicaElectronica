@@ -18,10 +18,17 @@ se lleve una noción de lo que se trata la temática.
 ###parrafo 2 
 400 caracteres aprox con los tres conceptos con algo que enganche
 
+*Ritmo: es el responsable del baile, el carácter y pasión.*
+
+*Ambientación: Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto podemos  crear intenciones,  texturas y/o estados de ánimo,  dependiendo del manejo.*
+
+*Innovación: Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento*
 
 
 
-blog con las respuestas
+
+
+###blog con las respuestas
 
 
 
