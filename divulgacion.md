@@ -24,12 +24,11 @@ Fueron pieza clave para el nacimiento y mutación de muchos generos como el Jung
 Breaks destacados:
 
 
-[http://picosong.com/eVXJ](Funky Drummer - james brown  Min 5:35) 
+[Funky Drummer - james brown - Min 5:35](http://picosong.com/eVXJ)
 
-[http://picosong.com/eVjy](Amen, Brother - The Winstons Min 1:26 )
+[Amen, Brother - The Winstons - Min 1:26 ](http://picosong.com/eVjy) 
 
-
-[http://picosong.com/eVju](Think About It - Lyn Collins )
+[Think About It - Lyn Collins ](http://picosong.com/eVju)
  
 
 **La ambientación:** Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto crearemos intenciones,texturas y/o estados de ánimo.
