@@ -14,8 +14,7 @@
 
 
 
-###parrafo 2 
-400 caracteres aprox con los tres conceptos con algo que enganche
+###Las bases 
 
 El énfasis de esta lectura estará enfocado en estos tres conceptos: 
 
