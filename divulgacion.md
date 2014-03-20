@@ -5,7 +5,7 @@ se lleve una noción de lo que se trata la temática.
 
 
 
-#LOS SONIDOS DEL FUTURO!
+#LOS SONIDOS DEL FUTURO.
 
 ####*La música electrónica está en expansión. El que conozca sus fundamentos y los lleve a un nivel innovador, tendrá el poder para hacer vibrar el mundo. Bienvenidos a la música del futuro!*
 
