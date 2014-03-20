@@ -1,4 +1,3 @@
-
 #LOS SONIDOS DEL FUTURO
 
 #####*La música electrónica está en enorme expansión, integrándose y fusionándose con todo a su paso generando nuevas tendencias.  Bienvenidos a la música del futuro!*
@@ -13,9 +12,10 @@
 El énfasis de estas lecturas estará enfocado en estos tres conceptos: 
 **Ritmo:** Es el responsable del baile, el carácter y pasión. Analizaremos su estructura y su flujo.
 **La ambientación:** Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto crearemos intenciones,texturas y/o estados de ánimo.
-**La Innovación:** Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento
+**La Innovación:** Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento.
 
-El que conozca sus fundamentos y los lleve a un nivel innovador, tendrá el poder para hacer vibrar el mundo!
+El que interiorice estos conceptos, tendrá el poder para hacer vibrar el mundo!
+Comencemos...
 
 
 
