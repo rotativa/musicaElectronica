@@ -32,21 +32,6 @@ El que conozca sus fundamentos y los lleve a un nivel innovador, tendrá el pode
 
 
 
-###blog con las respuestas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
