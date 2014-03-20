@@ -10,7 +10,14 @@
 
 
 El énfasis de estas lecturas estará enfocado en estos tres conceptos: 
-**Ritmo:** Es el responsable del baile, el carácter y pasión. Analizaremos su estructura y su flujo.
+**Ritmo:**
+Es el responsable del baile, el carácter y pasión.
+Tal vez uno de los ritmos más común de la música electrónica es el llamado “Four on the floor”
+Es un ritmo estable, equilibrado y sencillo, logrando que hasta el más reacio lo empiece a seguir con la cabeza o su pie. Lo encontramos en generos como el Disco el House, el Trance, y el Techno.
+Analizaremos su estructura y su flujo.
+
+<img src="http://i59.tinypic.com/2v81k54.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 **La ambientación:** Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto crearemos intenciones,texturas y/o estados de ánimo.
 **La Innovación:** Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento.
 
