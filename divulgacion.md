@@ -17,11 +17,18 @@
 ###parrafo 2 
 400 caracteres aprox con los tres conceptos con algo que enganche
 
-Ritmo: es el responsable del baile, el carácter y pasión.
+El énfasis de esta lectura estará enfocado en estos tres conceptos: 
 
-Ambientación: Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto podemos  crear intenciones,  texturas y/o estados de ánimo,  dependiendo del manejo.
+####Ritmo: 
+Es el responsable del baile, el carácter y pasión.
 
-Innovación: Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento
+####Ambientación: 
+
+Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto podemos  crear intenciones,texturas y/o estados de ánimo,  dependiendo del manejo.
+
+####Innovación:
+
+Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento
 
 El que conozca sus fundamentos y los lleve a un nivel innovador, tendrá el poder para hacer vibrar el mundo!
 
