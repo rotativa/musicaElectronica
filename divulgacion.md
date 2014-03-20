@@ -7,9 +7,12 @@ responder  preguntas de este tipo:*
 
 
 
-#titulo atractivo
+#LOS SONIDOS DEL FUTURO!
 
-####140 con los tres conceptos innovacion flujo del ritmo ambientacion
+####*La música electrónica está en expansión. El que conozca sus fundamentos y los lleve a un nivel innovador, tendrá el poder para hacer vibrar el mundo. Bienvenidos a la música del futuro!*
+
+
+
 
 
 
@@ -21,6 +24,7 @@ responder  preguntas de este tipo:*
 
 
 blog con las respuestas
+
 
 
 
