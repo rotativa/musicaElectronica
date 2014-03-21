@@ -12,7 +12,7 @@
 El énfasis de estas lecturas estará enfocado en estos tres conceptos: 
 **Ritmo:**
 Es el responsable del baile, el carácter y pasión.
-Tal vez uno de los ritmos más común de la música electrónica es el llamado “Four on the floor”
+Tal vez uno de los ritmos más común de la música electrónica es el llamado [“Four on the floor”](http://picosong.com/eVgm )
 Es un ritmo estable, equilibrado y sencillo, logrando que hasta el más reacio lo empiece a seguir con la cabeza o su pie. Lo encontramos en generos como el Disco el House, el Trance, y el Techno.
 Analizaremos su estructura y su flujo.
 
