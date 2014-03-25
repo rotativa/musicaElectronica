@@ -3,44 +3,15 @@
 #####*Que es la música electrónica? Cual es su flujo de ritmo, su ambientación y como lograr la innovación? Bienvenidos a la música futuro!*
 
 
-
-
-
-
-
-
-El énfasis de estas lecturas estará enfocado en estos tres conceptos: 
+Haremos  énfasis en estos tres conceptos: 
 **Ritmo:**
 Es el responsable del baile, el carácter y pasión.
-Tal vez uno de los ritmos más común de la música electrónica es el llamado [“Four on the floor”](http://picosong.com/eVgm )
-Es un ritmo estable, equilibrado y sencillo, logrando que hasta el más reacio lo empiece a seguir con la cabeza o su pie. Lo encontramos en generos como el Disco el House, el Trance, y el Techno.
 Analizaremos su estructura y su flujo.
-
-
-
-Un "break" es un segmento rítmico, de corta duración, se extraen de canciónes para usarlos luego en forma de loop.
-Fueron pieza clave para el nacimiento y mutación de muchos generos como el Jungle, Drum&Bass, Breakbeat entre otros.
-
-Breaks destacados:
-
-
-[Funky Drummer - james brown - Min 5:35](http://picosong.com/eVXJ)
-
-[Amen, Brother - The Winstons - Min 1:26 ](http://picosong.com/eVjy) 
-
-[Think About It - Lyn Collins ](http://picosong.com/eVju)
- 
-
 **La ambientación:** Es la paleta de colores para el pintor, y cada color es un instrumento o un sonido. Con esto crearemos intenciones,texturas y/o estados de ánimo.
 **La Innovación:** Es lo que nos llevara lejos. Nos aparta de lo común para ser visibles. Es experimentar con conocimiento.
-
 El que adquiera estos conceptos y los use correctamente, tendrá el poder para hacer vibrar el mundo!
 
 Comencemos...
-
-
-
-
 
 
 
