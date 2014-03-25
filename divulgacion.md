@@ -16,7 +16,7 @@ Tal vez uno de los ritmos más común de la música electrónica es el llamado [
 Es un ritmo estable, equilibrado y sencillo, logrando que hasta el más reacio lo empiece a seguir con la cabeza o su pie. Lo encontramos en generos como el Disco el House, el Trance, y el Techno.
 Analizaremos su estructura y su flujo.
 
-<img src="http://i59.tinypic.com/2v81k54.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 
 Un "break" es un segmento rítmico, de corta duración, se extraen de canciónes para usarlos luego en forma de loop.
 Fueron pieza clave para el nacimiento y mutación de muchos generos como el Jungle, Drum&Bass, Breakbeat entre otros.
@@ -50,18 +50,13 @@ Comencemos...
 La música electrónica esta caracterizada por emplear en su totalidad instrumentos electrónicos. A diferencia de otras músicas que utilizan instrumentos convencionales de viento, cuerdas o percusión,
 en la música electrónica los instrumentos son los sintetizadores y computadores los más predominantes.
 
-<img src="http://i58.tinypic.com/14njr0p.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-<img src="http://i57.tinypic.com/657vcx.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-
-<img src="http://i57.tinypic.com/2ihqrgh.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Anteriormente, los compositores experimentaban con las tecnologías musicales  emergentes, pero eran engorrosas y nada portátiles.
 Con la aparición de las  grabaciones en cinta magnética, los ruidos cotidianos y de la naturaleza  fueron base para las primeras manifestaciones musicales electrónicas.
 Un siguiente paso fue crear música con señales sintetizadas, para más adelante combinar estas sonoridades con instrumentos reales y hasta generar sonidos con algoritmos matemáticos  con ayuda de computadoras
 
 
-<img src="http://i57.tinypic.com/zxunsw.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Solo hasta finales de los años 1960, la música electrónica se fue popularizando gracias a los bajos costos tecnológicos.
 
