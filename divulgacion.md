@@ -57,6 +57,8 @@ Surgio en Inglaterra a principios de los 1990. Es un genero agresivo, pesado y b
 
 
 ###Trance
+Nacido en Alemania en los 90. Es una combinación del industrial, el techno y el house.  
+Es un genero energico, fiestero y melódico. Su forma musical sube y baja constantemente en cada cancion. 
 
 ###Dub
 
