@@ -51,6 +51,10 @@ La música electrónica ha tenido una gran evolución y variedad de géneros y s
 Nos centraremos en los generos mas predominantes de la música electrónica de baile.
 
 ###Drum&Bass
+Es una mezcla de ritmos jamaiquinos con electronicos(Breakbeat, rave, techno, hip house, dub, dancehall)
+Surgio en Inglaterra a principios de los 1990. Es un genero agresivo, pesado y bastante rapido (160-180 bpm)
+
+
 
 ###Trance
 
