@@ -1,6 +1,9 @@
 #LOS SONIDOS DEL FUTURO
 
-#####*La música electrónica está en enorme expansión, integrándose y fusionándose con todo a su paso generando nuevas tendencias.  Bienvenidos a la música del futuro!*
+#####*Que es la música electrónica?
+Cual es su flujo de ritmo y su ambientación?
+Como lograr la innovación?
+Bienvenidos al futuro!*
 
 
 
