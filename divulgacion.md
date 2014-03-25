@@ -52,15 +52,16 @@ Nos centraremos en los generos mas predominantes de la música electrónica de b
 
 ###Drum&Bass
 Es una mezcla de ritmos jamaiquinos con electronicos(Breakbeat, rave, techno, hip house, dub, dancehall)
-Surgio en Inglaterra a principios de los 1990. Es un genero agresivo, pesado y bastante rapido (160-180 bpm)
+Surgio en Inglaterra a principios de los 90s. Es un genero agresivo, pesado y bastante rapido (160-180 bpm)
 
 
 
 ###Trance
-Nacido en Alemania en los 90. Es una combinación del industrial, el techno y el house.  
+Nacido en Alemania en los 90s. Es una combinación del industrial, el techno y el house.  
 Es un genero energico, fiestero y melódico. Su forma musical sube y baja constantemente en cada cancion. 
 
 ###Dub
+Genero jamaiquiano de los 60s, proveniente del reggae, se caracteriza por la versión o remezcla instrumental de grabaciones existentes ("riddim") y el empleo importante de efectos como reverbs y delays
 
 ###Dubstep
 
