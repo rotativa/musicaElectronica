@@ -19,7 +19,7 @@ Comencemos...
 
 
 
-### Música Electrónica
+### Un poco de historia..
  
 La música electrónica esta caracterizada por emplear en su totalidad instrumentos electrónicos. A diferencia de otras músicas que utilizan instrumentos convencionales de viento, cuerdas o percusión,
 en la música electrónica los instrumentos son los sintetizadores y computadores los más predominantes.
