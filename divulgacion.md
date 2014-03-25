@@ -64,6 +64,8 @@ Es un genero energico, fiestero y melódico. Su forma musical sube y baja consta
 Genero jamaiquiano de los 60s, proveniente del reggae, se caracteriza por la versión o remezcla instrumental de grabaciones existentes ("riddim") y el empleo importante de efectos como reverbs y delays
 
 ###Dubstep
+Proveniente del Reggae, dub, drum and bass nacido en Inglaterra en el 2000. 
+de sonoridad oscura y caotica y entrecortada.
 
 ###House
 
