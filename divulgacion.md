@@ -76,6 +76,8 @@ Oríginado en	Detroit en los 80s influenciado por el soul, disco, funk y el elec
 El techno es fundamentalmente instrumental, con pocas voces. Buena parte de la instrumentación techno enfatiza la sección rítmica.
 
 ###Ambient
+Se caracteriza por ser muy atmosférica y ambiental. Es mas prioridad el sonido que las notas en si,
+creando un efecto para intentar atravesar la conciencia del oyente.
 
 
 ###IDM
