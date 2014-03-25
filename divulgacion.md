@@ -68,6 +68,9 @@ Proveniente del Reggae, dub, drum and bass nacido en Inglaterra en el 2000.
 de sonoridad oscura y caotica y entrecortada.
 
 ###House
+Orígenado en Chicago en los 80s. Mezcla de	Soul, Disco, Funk y New wave.
+Es tal vez de los generos que mas se ha diversificado en subgeneros.
+
 
 ###Techno
 
