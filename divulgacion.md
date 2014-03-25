@@ -73,6 +73,9 @@ Es tal vez de los generos que mas se ha diversificado en subgeneros.
 
 
 ###Techno
+Oríginado en	Detroit en los 80s influenciado por el soul, disco, funk y el electro.
+El techno es fundamentalmente instrumental, con pocas voces. Buena parte de la instrumentación techno enfatiza la sección rítmica.
+
 
 ###DM
 
