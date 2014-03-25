@@ -1,7 +1,6 @@
 #LOS SONIDOS DEL FUTURO
 
-#####*Que es la música electrónica? Cual es su flujo de ritmo, su ambientación y como lograr la innovación?*
-*Bienvenidos a la música futuro!*
+#####*Que es la música electrónica? Cual es su flujo de ritmo, su ambientación y como lograr la innovación? Bienvenidos a la música futuro!*
 
 
 
