@@ -71,17 +71,16 @@ de sonoridad oscura y caotica y entrecortada.
 Orígenado en Chicago en los 80s. Mezcla de	Soul, Disco, Funk y New wave.
 Es tal vez de los generos que mas se ha diversificado en subgeneros.
 
-
 ###Techno
 Oríginado en	Detroit en los 80s influenciado por el soul, disco, funk y el electro.
 El techno es fundamentalmente instrumental, con pocas voces. Buena parte de la instrumentación techno enfatiza la sección rítmica.
 
-
-###DM
-
 ###Ambient
 
 
+###IDM
+se caracteriza más por la experimentación individual que por rasgos musicales fijos. De ahí que pueda abarcar música y músicos muy dispares.
+Surgió a principios de los años 1990 en Gran Bretaña. Mezcla de	Ambient, electro y techno.
 
 
 ### ¿Para qué sirve la música electrónica en la vida cotidiana (o no tan cotidiana)?
