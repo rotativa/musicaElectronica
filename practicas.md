@@ -1,12 +1,5 @@
 ### Prácticas
 
-La función someter a los aprendices a una serie de problemas que deben solucionar
-con las herramientas que la temática les provee.
-Se puede hacer un guión de los aspectos que se quieren enseñar de la temática
-y luego para cada aspecto diseñar un problema para ser resuelto con las
-herramientas que se han dado hasta el momento, puede ser retroactivo,
-es decir, el tercer problema puede usar herramientas del primer y segundo
-problema.
 
 
 
@@ -59,6 +52,51 @@ Intentemos este:
 *Como harías un fill de 4 compases?*
 
 *Como harías un fill de 8 compases?*
+
+
+Ahora pongamos todo en un daw (explicar como)
+
+
+
+
+###Ambientancion  (texto en borrador)
+
+haremos un bajo unos acordes y una melodia.
+
+vamos a escojer unos acordes que seran la armonia de la cancion:  G  D  Em  C
+
+para el bajo tomemos la nota raiz de cada acorde:   G  D  Em  C
+
+su ritmica sera sincopada. 
+
+Para los acordes ecojeremos un piano con una ritmica tambien sincopada pero con alguna variacion.
+
+Para la melodia usaremos un sintetizador con notas correspondientes a cada acorde 
+y con de algo de concordancia ritmica entre el bajo y los acordes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
