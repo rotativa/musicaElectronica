@@ -131,3 +131,14 @@ Es sin duda alguna una herramienta, y otra opción para los jóvenes de nuestra 
 
 #### [Federico Goes](https://www.facebook.com/federico.goes.3?fref=ts)
 
+
+
+
+#### [Practicas](practicas.md)
+
+
+
+
+
+
+
