@@ -134,7 +134,7 @@ Es sin duda alguna una herramienta, y otra opción para los jóvenes de nuestra 
 
 
 
-#### [Practicas](practicas.md)
+## [Practicas](practicas.md)
 
 
 
