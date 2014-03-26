@@ -62,10 +62,4 @@ Intentemos este:
 
 
 
-
-###[Armonia](armonia.md)  
-###[Melodia](melodia.md)    
-###[Secuenciador](secuenciador.md)   
-###[Sintetizador](sintetizador.md)    
-###[Tecnicas](tecnicas.md)   
    
