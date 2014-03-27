@@ -1,7 +1,11 @@
+#SECUENCIADORES: Acompañante Autómata
 
-Titulo  atractivo
-tweet 140 caracteres
-parrafo   facebook
+
+#####*Desde composición y programación hasta acompañante musical! ...herramienta o instrumento*
+----
+Un secuenciador es un artefacto electrónico o virtual que permite programar y reproducir sonidos de forma secuencial, permitiendo manipular multiples caracteristicas como la duracion, la intensidad y la altura en cada sonido. 
+
+----
 
 desarrollo
 
