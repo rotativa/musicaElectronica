@@ -3,7 +3,7 @@
 
 #####*Desde composición y programación hasta acompañante musical! ...herramienta o instrumento?*
 ----
-Un secuenciador es un artefacto electrónico o virtual que permite programar y reproducir sonidos de forma secuencial, permitiendo manipular multiples caracteristicas como la duracion, la intensidad y la altura en cada sonido. 
+Un secuenciador  permite componer sonidos de forma ordenada, reproducirlos automáticamente incluso como acompañamiento, o para preproducir una pieza. 
 
 ----
 
