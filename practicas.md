@@ -1,11 +1,11 @@
-### Prácticas
+# Prácticas
 
-Ritmo: 
+###Ritmo: 
 Definir una base ritmica [Solucion]()
 
 
 
-La ambientación: 
+###La ambientación: 
 
 
 
@@ -14,7 +14,7 @@ Definir la armonia
 Definir la melodia
 
 
-La Innovación:
+###La Innovación:
 
 
 
