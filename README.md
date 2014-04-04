@@ -10,3 +10,6 @@
 * [Dubstep](dubstep.md)
 * [IDM](idm.md)
 * [Ambient](ambient.md)
+* 
+
+#[Practicas](practicas.md)
