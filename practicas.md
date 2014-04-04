@@ -1,7 +1,13 @@
 # Prácticas
 
 ###Ritmo: 
-Definir una base rítmica [Solución]()
+Definir una base rítmica 
+
+[Solución]()
+
+[Solución]()
+
+[Solución]()
 
 
 
