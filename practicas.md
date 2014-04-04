@@ -9,8 +9,10 @@ Definir una base ritmica [Solucion]()
 
 
 
-Definir el bajo 
+Definir el bajo
+
 Definir la armonia
+
 Definir la melodia
 
 
