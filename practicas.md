@@ -1,7 +1,7 @@
 # Prácticas
 
 ###Ritmo: 
-Definir una base ritmica [Solucion]()
+Definir una base rítmica [Solución]()
 
 
 
@@ -9,14 +9,21 @@ Definir una base ritmica [Solucion]()
 
 
 
-Definir el bajo
+Definir el bajo   [Solución]()
 
-Definir la armonia
+Definir la armonía  [Solución]()
 
-Definir la melodia
+Definir la melodía   [Solución]()
 
 
 ###La Innovación:
+
+Cambiar el humor de la canción [Solución]()
+
+Remplazar elementos con otros de sonidos diferente  [Solución]()
+
+Cambiar de métrica de la canción      [Solución]()
+
 
 
 
