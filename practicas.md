@@ -30,6 +30,8 @@ Remplazar elementos con otros de sonidos diferente  [Solución]()
 
 Cambiar de métrica de la canción      [Solución]()
 
+Experimentar con otras armonías  [Solución]()
+
 
 
 
