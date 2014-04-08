@@ -50,9 +50,36 @@ La música electrónica ha tenido una gran evolución y variedad de géneros y s
 
 Nos centraremos en los generos mas predominantes de la música electrónica de baile.
 
-###Drum&Bass
+###Drum&Bass (DnB)
 Es una mezcla de ritmos jamaiquinos con electronicos(Breakbeat, rave, techno, hip house, dub, dancehall)
 Surgio en Inglaterra a principios de los 90s. Es un genero agresivo, pesado y bastante rapido (160-180 bpm)
+
+Su parte ritmica caracteristica, surguio extrayendo grooves en un par de canciones.
+
+estas son algunas de las mas usadas:
+
+
+Como suena el Drum&Bass?
+
+[1990: Spliffhead]          ( http://www.youtube.com/watch?v=_LNOMxqJUn0)
+
+[1992: Terminator]          (  http://www.youtube.com/watch?v=OnzP4F9SqvQ)
+
+[1995: Horizons    ]    (  http://www.youtube.com/watch?v=R7eAQOYSXmY)
+
+[1996: Trippin' on Broken Beats](  http://www.youtube.com/watch?v=rPQHJ14o0AQ)
+
+[1997: I am the Black Gold of the sun] (  http://www.youtube.com/watch?v=aYBT90PFmoM)
+
+[1997: Vic Acid ]        ( http://www.youtube.com/watch?v=QEboyCrygv8)
+
+[1998: Imagination ]         (  http://www.youtube.com/watch?v=757SbRSPzeI)
+
+[2005: Szerencsetlen ]      (  http://www.youtube.com/watch?v=vg52OSGmg7g)
+
+[2007: Hidden Killer  ]      ( http://www.youtube.com/watch?v=q_D9u8FAoZM)
+
+[2009: Silicon  ]          ( http://www.youtube.com/watch?v=iCuVrF705sI)
 
 
 
