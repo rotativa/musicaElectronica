@@ -50,7 +50,7 @@ La música electrónica ha tenido una gran evolución y variedad de géneros y s
 
 Nos centraremos en los generos mas predominantes de la música electrónica de baile.
 
-###Drum&Bass (DnB)
+##Drum&Bass (DnB)
 Es una mezcla de ritmos jamaiquinos con electronicos(Breakbeat, rave, techno, hip house, dub, dancehall)
 Surgio en Inglaterra a principios de los 90s. Es un genero agresivo, pesado y bastante rapido (160-180 bpm)
 
@@ -60,7 +60,7 @@ Su parte ritmica caracteristica, surguio extrayendo grooves en un par de cancion
 
 [James Brown Funky Drummer](https://www.youtube.com/watch?v=dNP8tbDMZNE)
 
-## Como suena el Drum&Bass?
+### Como suena el Drum&Bass?
 
 Estos son algunos reerentes importantes:
 
