@@ -19,7 +19,7 @@ Definir el bajo   [Solución](101solucion.md)
 
 [Variacion 1](102solucion.md)
 
-[Solución 2](103solucion.md)
+[Variacion 2](103solucion.md)
 
 Definir la armonía 
 
