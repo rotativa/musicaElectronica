@@ -3,11 +3,11 @@
 ###Ritmo: 
 Definir una base rítmica 
 
-[Solución]()
+[Solución](001solucion.md)
 
-[Solución]()
+[Variacion](002solucion.md)
 
-[Solución]()
+[Variacion](003solucion.md)
 
 
 
