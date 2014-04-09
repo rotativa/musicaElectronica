@@ -60,7 +60,7 @@ Su parte ritmica caracteristica, surguio extrayendo grooves en un par de cancion
 
 [James Brown Funky Drummer](https://www.youtube.com/watch?v=dNP8tbDMZNE)
 
-### Como suena el Drum&Bass?
+#### Como suena el Drum&Bass?
 
 Estos son algunos reerentes importantes:
 
