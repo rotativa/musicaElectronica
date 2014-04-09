@@ -23,6 +23,12 @@ Definir el bajo   [Solución](101solucion.md)
 
 Definir la armonía 
 
+[Solución](201solucion.md)
+
+[Variacion 1](202solucion.md)
+
+[Variacion 2](203solucion.md)
+
 Definir la melodía   
 
 
