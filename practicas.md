@@ -15,11 +15,15 @@ Definir una base rítmica
 
 
 
-Definir el bajo   [Solución]()
+Definir el bajo   [Solución](101solucion.md)
 
-Definir la armonía  [Solución]()
+[Variacion 1](102solucion.md)
 
-Definir la melodía   [Solución]()
+[Solución 2](103solucion.md)
+
+Definir la armonía 
+
+Definir la melodía   
 
 
 ###La Innovación:
