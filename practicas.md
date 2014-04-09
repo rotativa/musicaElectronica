@@ -5,9 +5,9 @@ Definir una base rítmica
 
 [Solución](001solucion.md)
 
-[Variacion](002solucion.md)
+[Variacion 1](002solucion.md)
 
-[Variacion](003solucion.md)
+[Variacion 2](003solucion.md)
 
 
 
