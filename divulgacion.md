@@ -3,16 +3,13 @@
 #####*Que es la música electrónica? Cual es su flujo de ritmo, su ambientación y como lograr la innovación? Bienvenidos a la música futuro!*
 ----
 
-Haremos  énfasis en estos tres conceptos: 
 
-**Ritmo:**
-Es el responsable del baile, el carácter y pasión.
-Analizaremos su estructura y su flujo.
 
-**La ambientación:** Es como la paleta de colores para el pintor, donde cada color es un instrumento o un sonido. Con esto crearemos intenciones,texturas, estados de ánimo, ...pintar con sonidos!
+Los ritmos de la musica electronica son los reponsables del baile y su carácter.
+Analizaremos su estructura y su flujo junto con su ambientacion. Esta es como la paleta de colores para el pintor, donde cada color es un sonido o instrumento, que nos permitira crear intenciones, texturas y estados de ánimo. Es pintar con sonidos.
 
-**La Innovación:** Es lo que nos llevara lejos. Nos aparta de lo común para lograr algo unico. Es experimentar con conocimiento.
-El que adquiera estos conceptos y los use correctamente, tendrá el poder para hacer vibrar el mundo!
+La evolucion de esta musica se debe en gran parte a la innovación, crucial para apartarnos de lo común y poder lograr algo unico, pero para innovar es necesario tener un conocimiento previo de la mano con la esperimentacion.
+
 
 Comencemos...
 
