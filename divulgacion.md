@@ -16,18 +16,11 @@ Comencemos...
 
 ----
 
-Ancestralmente, la músicas tribales, sucedían rituales con tambores que usaban patrones rítmicos de duracion indeterminada. Siglos despues, con la llegada de la música grabada, las canciones tenían una duración que frustraba a quien estuviera muy feliz bailando. Con la ayuda de secuenciadores o el arte del Dj al mezclar, logran extender el ritmo tanto como se requiera.
-
-La música siempre fue un arte hecho con instrumentos de maderas, cuerdas y metales, golpear, rozar.
-Con la llegada de los sintetizadores fue posible expandir el horizonte sonoro creando timbres nunca antes imaginados, crear sonidos se volvió un arte, incluso hay géneros como el ..(Trance, IDM, Dubstep) basados en paisajes sonoros que por si mismos son fascinantes.
 
 
-Anteriormente no era posible tomar una porción de una canción para poder extenderla o para generar una nueva.
-De esta necesidad surgieron la técnica del Sampling y el sampler, (Instrumento que toma muestras digitales permitiendo editarlas y las reproducirlas versátilmente.) dando origen al Remix. (mezcla alternativa de una canción)
  
 La música electrónica esta caracterizada por emplear en su totalidad instrumentos electrónicos. A diferencia de otras músicas que utilizan instrumentos convencionales de viento, cuerdas o percusión,
-en la música electrónica los instrumentos son los sintetizadores y computadores los más predominantes.
-
+Los sintetizadores y computadores son los más predominantes logrando timbres nunca antes imaginados.
 
 
 Anteriormente, los compositores experimentaban con las tecnologías musicales  emergentes, pero eran engorrosas y nada portátiles.
@@ -41,7 +34,8 @@ Solo hasta finales de los años 1960, la música electrónica se fue popularizan
 
 En los ochentas nació el MIDI (Musical Instrument Digital Interface). Este importantísimo avance permitía comunicar y controlar de manera sincronizada las maquinas entre sí.
 
-Nuevos avances de las últimas décadas implementan sensores que miden los movimientos físicos del músico para convertirse en órdenes musicales a tiempo real.
+Nuevos avances de las últimas décadas implementan instrumentos como el sampler, o sensores que convierten movimientos físicos en órdenes musicales a tiempo real.
+
 
 Los softwares musicales avanzan vertiginosamente logrando una calidad sonora altísima y además, simular hardware de manera virtual, dando lugar a una nueva revolución en las herramientas electrónicas, e incrementando masivamente la producción musical casera. Tanto así, que ya todo esto esta disponible en nuestros celulares.
 
