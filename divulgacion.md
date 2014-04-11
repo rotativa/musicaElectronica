@@ -81,7 +81,6 @@ De esta necesidad surgieron la técnica del Sampling y el sampler, (Instrumento 
 
 
 
-### ¿Quienes (de medellin) están trabajando este tema, y que los caracteriza?
 Medellin se ha permeado con esta musica desde varias decadas atras, y son muchos los colectivos que adoptaron la musica electronica como identidad.
 
 algunos son:
