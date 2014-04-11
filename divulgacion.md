@@ -16,7 +16,7 @@ Comencemos...
 
 ----
 
-### Un poco de historia..
+
  
 La música electrónica esta caracterizada por emplear en su totalidad instrumentos electrónicos. A diferencia de otras músicas que utilizan instrumentos convencionales de viento, cuerdas o percusión,
 en la música electrónica los instrumentos son los sintetizadores y computadores los más predominantes.
@@ -63,8 +63,7 @@ Ambient
 
 IDM
 
-
-### ¿Para qué sirve la música electrónica en la vida cotidiana (o no tan cotidiana)?
+---------
 
 Culturalmente, para aprender sobre diferentes manifestaciones musicales que han sido populares en el mundo entero.
 Musicalmente, es un aporte invaluable para el trabajo del músico, compositor o aficionado, al poder integrar técnicas, sonidos y/o tendencias a cualquier otro género musical.
