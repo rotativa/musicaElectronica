@@ -40,7 +40,10 @@ Los softwares musicales avanzan vertiginosamente logrando una calidad sonora alt
 
 
 
-La música electrónica ha tenido una gran evolución y variedad de géneros y subgeneros, desde lo culto, experimental o filosófico, hasta lo popular como la música electrónica de baile.
+La música electrónica ha tenido una gran evolución con el nacimiento de muchos géneros y subgeneros, desde lo culto, experimental o filosófico, hasta lo popular, como la música electrónica de baile.
+Su aporte tanto musical como tecnologico le ha dado un espacio mundialmente importante en la historia de la musica y su vigencia perdurara en el tiempo.
+
+
 
 <img src="http://i57.tinypic.com/2qwzmkp.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
@@ -65,13 +68,6 @@ IDM
 
 ---------
 
-Culturalmente, para aprender sobre diferentes manifestaciones musicales que han sido populares en el mundo entero.
-Musicalmente, es un aporte invaluable para el trabajo del músico, compositor o aficionado, al poder integrar técnicas, sonidos y/o tendencias a cualquier otro género musical.
-
-### ¿Qué problema intenta resolver la música electrónica?
-
-
-Baile sin fin
 
 Ancestralmente, en la música tribal, sucedían rituales con tambores que usaban patrones rítmicos que duraban lo que fuera necesario, luego con la llegada de la música grabada, las canciones tenían una duración fija que al finalizar frustraba a quien estuviera muy feliz bailando , tanto el Dj con su habilidad de mezclar varias piezas sin perder el beat, o la música construida con secuenciadores (303, 808, MPC, etc) permiten extender el ritmo tanto como el ambiente lo requiera.
 Sonidos de la imaginación
@@ -85,23 +81,12 @@ De esta necesidad surgieron la técnica del Sampling y el sampler, (Instrumento 
 
 
 
-### ¿Porqué es importante para nuestro contexto aprender de esto?
-
-La música se ha vuelto vital en nuestras vidas, la escuchas en todos lados. 
-Que seria de la radio, la tv, la publicidad, las iglesias, el trabajo, el descanso o el ocio sin música?
-Tiene un gran impacto sobre nuestros estados de ánimo que hasta terapéutico se ha vuelto.
-
-Mas intenso aun, es experimentar la música desde adentro haciendo parte de ella, ya sea bailando componiendo o interpretándola. 
-La sensación es única, enriquecedora y reconfortante, alimenta el alma.
-
-Por esto, la posibilidad de que la gente pueda experimentar otras formas de sentir la música, y generar un click de pasión por seguir aprendiendo, es lo que se pretende con esta escuela. 
-Es sin duda alguna una herramienta, y otra opción para los jóvenes de nuestra ciudad.
-
-
-
-
 ### ¿Quienes (de medellin) están trabajando este tema, y que los caracteriza?
+Medellin se ha permeado con esta musica desde varias decadas atras, y son muchos los colectivos que adoptaron la musica electronica como identidad.
 
+algunos son:
+
+#### [Estados Alterados](https://www.facebook.com/EstadosAlterados?fref=ts)
 
 #### [Blue Art Musique](https://www.facebook.com/blueartmusique?fref=ts)
 
