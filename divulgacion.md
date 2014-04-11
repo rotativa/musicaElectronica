@@ -5,10 +5,10 @@
 
 
 
-Los ritmos de la musica electronica son los reponsables del baile y su carácter.
-Analizaremos su estructura y su flujo junto con su ambientacion. Esta es como la paleta de colores para el pintor, donde cada color es un sonido o instrumento, que nos permitira crear intenciones, texturas y estados de ánimo. Es pintar con sonidos.
+Los ritmos de la música electrónica son los responsables del baile y su carácter.
+Analizaremos su estructura y su flujo junto con su ambientacion. Esta es como la paleta de colores para el pintor, donde cada color es un sonido o instrumento, que nos permitirá crear intenciones, texturas y estados de ánimo. Es pintar con sonidos.
 
-La evolucion de esta musica se debe en gran parte a la innovación, crucial para apartarnos de lo común y poder lograr algo unico, pero para innovar es necesario tener un conocimiento previo de la mano con la esperimentacion.
+La evolución de esta música se debe en gran parte a la innovación, crucial para apartarnos de lo común y poder lograr algo único, pero para innovar es necesario tener un conocimiento previo de la mano con la experimentación.
 
 
 Comencemos...
