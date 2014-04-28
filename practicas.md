@@ -33,7 +33,7 @@ Definir la melodía
 
 ###La Innovación:
 
-Cambiar el caracter de la canción [Solución](301solucion.md)
+Cambiar el caracter o emocion de la canción [Solución](301solucion.md)
 
 Remplazar elementos con otros de sonidos diferente  [Solución](401solucion.md)
 
