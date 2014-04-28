@@ -33,13 +33,13 @@ Definir la melodía
 
 ###La Innovación:
 
-Cambiar el humor de la canción [Solución]()
+Cambiar el caracter de la canción [Solución](301solucion.md)
 
-Remplazar elementos con otros de sonidos diferente  [Solución]()
+Remplazar elementos con otros de sonidos diferente  [Solución](401solucion.md)
 
-Cambiar de métrica de la canción      [Solución]()
+Cambiar de métrica de la canción      [Solución](501solucion.md)
 
-Experimentar con otras armonías  [Solución]()
+Experimentar con otras armonías  [Solución](601solucion.md)
 
 
 
