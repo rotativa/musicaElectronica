@@ -8,40 +8,40 @@ Ira
 agresiva 
 Himno  
 Hermosas  
-Celebración 
-Perseverante 
-Bailable 
-Amanecer 
-Dramático 
-Sueño 
-Exotico 
-Fantasia  
-Comedia 
-Fantasmagórico 
-Feliz  
-Heroico / Valiente 
-Tropical 
-Hipnótico 
-Inspirador 
-Caprichosa 
-Relajado 
-Glamour  
-Místico 
-Nostálgico 
-Panorámica 
-Pacifico  
-Pastoral 
-Energico 
-Corporativo  
-Majestuoso 
-Romántico 
-Ciencia Ficción  
-Sexy  
-Minimalista  
-Cámara lenta 
-Sigilo 
-Tensión 
-Pensativo / reflexivo  
-Violencia 
-Cálido 
-Conmovedor 
+Celebración    
+Perseverante    
+Bailable    
+Amanecer   
+Dramático   
+Sueño   
+Exotico   
+Fantasia    
+Comedia   
+Fantasmagórico   
+Feliz    
+Heroico / Valiente   
+Tropical    
+Hipnótico    
+Inspirador     
+Caprichosa    
+Relajado    
+Glamour     
+Místico    
+Nostálgico       
+Panorámica    
+Pacifico     
+Pastoral    
+Energico    
+Corporativo    
+Majestuoso    
+Romántico    
+Ciencia Ficción     
+Sexy     
+Minimalista    
+Cámara lenta   
+Sigilo    
+Tensión    
+Pensativo / reflexivo     
+Violencia    
+Cálido   
+Conmovedor    
