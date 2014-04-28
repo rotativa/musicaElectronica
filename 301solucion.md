@@ -3,12 +3,11 @@ Las canciones pueden reflejar los estados de ánimo o emociones que deseemos!
 Algunas pueden ser:
 
 
-Optimista 
-Ira  
-agresiva 
-Himno  
-Hermosas  
-Celebración    
+Optimista     
+agresivo     
+Himno            
+Hermoso         
+Celebración      
 Perseverante    
 Bailable    
 Amanecer   
