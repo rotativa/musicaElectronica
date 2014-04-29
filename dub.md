@@ -1,6 +1,6 @@
 <img src="http://i57.tinypic.com/1j1ds1.jpg" border="0" alt="Image and video hosting by TinyPic">
 
-###Dub
+
 Genero jamaiquiano de los 60s, proveniente del reggae, se caracteriza por la versión o remezcla instrumental de grabaciones existentes ("riddim") y el empleo importante de efectos como reverbs y delays.    
 
 1977: Lone Ranger -The Answer  http://www.youtube.com/watch?v=mjtetA_gQZA 
@@ -17,7 +17,6 @@ Genero jamaiquiano de los 60s, proveniente del reggae, se caracteriza por la ver
 
 
 
-# Dub
 
 La influencia del Dub en la música electrónica es increíble, aunque las conexiones no son tan obvias a primera vista. Dub es un subgénero del reggae, pero es mucho más que eso. Aunque fue inicialmente un tipo de música, 
 luego se convirtió en un conjunto de técnicas con aplicación a todos los estilos. 
