@@ -1,7 +1,20 @@
 <img src="http://i61.tinypic.com/14ilvo1.jpg" border="0" alt="Image and video hosting by TinyPic">
 
 
-# Referentes
+
+##Drum&Bass (DnB)
+Es una mezcla de ritmos jamaiquinos con electronicos(Breakbeat, rave, techno, hip house, dub, dancehall)
+Surgio en Inglaterra a principios de los 90s. Es un genero agresivo, pesado y bastante rapido (160-180 bpm)
+
+Su parte ritmica caracteristica, surguio extrayendo grooves en un par de canciones. Algunas de las mas usadas son:
+
+[The Winstons - Amen Brother](https://www.youtube.com/watch?v=GxZuq57_bYM)
+
+[James Brown Funky Drummer](https://www.youtube.com/watch?v=dNP8tbDMZNE)
+
+#### Como suena el Drum&Bass?
+
+Estos son algunos reerentes importantes:
 
 
 [1990: Spliffhead]          ( http://www.youtube.com/watch?v=_LNOMxqJUn0)
