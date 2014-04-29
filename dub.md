@@ -3,6 +3,8 @@
 
 Genero jamaiquiano de los 60s, proveniente del reggae, se caracteriza por la versión o remezcla instrumental de grabaciones existentes ("riddim") y el empleo importante de efectos como reverbs y delays.    
 
+### Referentes  
+
 1977: Lone Ranger -The Answer  http://www.youtube.com/watch?v=mjtetA_gQZA 
 
 1979: General Echo - Titanic   http://www.youtube.com/watch?v=efL8IWe50tU 
