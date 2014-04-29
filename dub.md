@@ -1,5 +1,7 @@
 <img src="http://i57.tinypic.com/1j1ds1.jpg" border="0" alt="Image and video hosting by TinyPic">
 
+###Dub
+Genero jamaiquiano de los 60s, proveniente del reggae, se caracteriza por la versión o remezcla instrumental de grabaciones existentes ("riddim") y el empleo importante de efectos como reverbs y delays.    
 
 1977: Lone Ranger -The Answer  http://www.youtube.com/watch?v=mjtetA_gQZA 
 
