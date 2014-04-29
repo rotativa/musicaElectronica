@@ -1,7 +1,8 @@
-
 <img src="http://i57.tinypic.com/2db7234.jpg" border="0" alt="Image and video hosting by TinyPic">
 
-
+###Trance
+Nacido en Alemania en los 90s. Es una combinación del industrial, el techno y el house.  
+Es un genero energico, fiestero y melódico. Su forma musical sube y baja constantemente en cada cancion. 
 
 
 1995: "Children (Dream Version)"
