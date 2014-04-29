@@ -1,5 +1,9 @@
 # Dubstep
 
+Proveniente del Reggae, dub, drum and bass nacido en Inglaterra en el 2000. 
+de sonoridad oscura y caotica y entrecortada.
+
+
 Artistas representativos: Skrillex
 
 Gran importancia a las frecuencias muy bajas y líneas líderes agresivas
