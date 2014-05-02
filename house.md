@@ -5,7 +5,7 @@
 
 Su éxito se debe en gran parte al el surgimiento y fin de la música Disco, que decayó por el excesivo comercio que tuvo, la gente estaba hastiada y necesitaba de algo nuevo para bailar. Ahí empezó su evolución.  
 
-El termino House se refirió en parte a un famoso club gay  llamado Warehouse, en donde tocaban esta música y también a la técnica de mezclar canciones sin pausas, creada por djs del mismo club.   
+El termino House se refirió en parte a un famoso club gay  llamado WareHouse, en donde tocaban esta música y también a la técnica de mezclar canciones sin pausas, creada por djs del mismo club.   
 
 
 
