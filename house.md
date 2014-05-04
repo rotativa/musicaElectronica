@@ -24,7 +24,12 @@ Proliferaron los productores House, que aportaban sus propias influencias, y té
 # Análisis 
 
 
-El house se ha fragmentado en tantos subgéneros que nos es fácil identificar sus atributos. Puede ser funk, vocal, fiestero o simplemente bombeante. La instrumentación suele determinar su estilo.         
+El house se ha fragmentado en tantos subgéneros que nos es fácil identificar sus atributos. Puede ser funk, vocal, fiestero o simplemente bombeante. La instrumentación suele determinar su estilo.   
+
+Algunos subgéneros:   
+Acid house, deep house, freestyle house, euro-house, Funky House, garage house, soulful house, italo house, minimal house/microhouse, pumpin' house, tribal house,
+Y también  fusiones como:  tech house, electro house, hip house, house-trance, latin house 
+
 
 Es  un género de 4/4 y a una velocidad entre 125 y 135 bpm.    
 Su producción se logra usando samples y ajustándolos y con programación Midi.    
