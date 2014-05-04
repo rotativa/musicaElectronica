@@ -1,8 +1,14 @@
 <img src="http://i57.tinypic.com/2db7234.jpg" border="0" alt="Image and video hosting by TinyPic">
 
 ###Trance
-Nacido en Alemania en los 90s. Es una combinación del industrial, el techno y el house.  
-Es un genero energico, fiestero y melódico. Su forma musical sube y baja constantemente en cada cancion. 
+
+Posiblemente es uno de los generos más ambiguos de la música Dance debido a sus múltiples formas y pocos se ponen de acuerdo al hablar de sus límites.  
+
+El propósito de este género era poner a los asistentes de los clubs en un estado de trance, igual como las tribus de antepasados, con percusiones y alucinógenos.  Solo que ahora los alucinógenos son drogas que el hombre hace y los ritmos son producidos por las maquinas.   
+
+Nacido en Alemania en los 90s. Es una combinación del industrial, el techno y el house.    
+Es un genero energico, fiestero y melódico. Su forma musical sube y baja constantemente en cada cancion.   
+Esta construido alrededor de melodías enérgicas y glamurosas.   
 
 
 1995: "Children (Dream Version)"
