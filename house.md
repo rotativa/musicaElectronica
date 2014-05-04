@@ -24,6 +24,11 @@ Proliferaron los productores House, que aportaban sus propias influencias, y té
 # Análisis 
 
 
+El house se ha fragmentado en tantos subgéneros que nos es fácil identificar sus atributos,  puede ser funk, vocal, fiestero o simplemente bombeante.
+Es  un género de 4/4 y a una velocidad entre 125 y 135 bpm. La instrumentación suele determinar su estilo.
+Su producción se logra usando samples y ajustándolos y con programación Midi.
+El ritmo se compone de bombo en negras,  redoblante en 2 y 4 negra y el HH puede ser sincopado o con variaciones muy libres pero cercanas a la sincopa.
+Es muy frecuente el uso de patrones de percusión como congas, toms, bongos panderetas y shakers, para agregarle más carácter al ritmo, dependiendo de su subgénero.
 
 
 
