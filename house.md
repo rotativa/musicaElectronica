@@ -50,14 +50,38 @@ En cuanto a sus timbres la variedad es muy amplia, desde una simple onda sinusoi
 Algunos subgéneros y artistas House:   
     
 
-Acid house, deep house, freestyle house, euro-house, Funky House, garage house, soulful house, italo house, minimal house/microhouse, pumpin' house, tribal house,
-Y también  fusiones como:  tech house, electro house, hip house, house-trance, latin house.   
+Acid house 
+Deep house 
+Freestyle house  
+Euro-house  
+Funky House  
+Garage house  
+Soulful house  
+Italo house  
+Minimal house/microhouse 
+Pumpin' house  
+Tribal house  
 
+Y también  fusiones como:  
+Tech house  
+Electro house  
+Hip house  
+House-trance  
+Latin house   
 
 
 Artistas:   
 
-Daft punk, Room 5, The supermen Lovers, Modjo, Stardust, Kid Crème, Stylophonic, Roger Sanchez, y algunos actuals como David Guetta, Deadmau5, Hardwell, Swedish House Mafia, Avicii entre otros.
+Daft punk   
+Room 5  
+The supermen Lovers  
+Modjo  
+Stardust  
+Kid Crème  
+Stylophonic  
+Roger Sanchez  
+
+y algunos actuales como David Guetta, Deadmau5, Hardwell, Swedish House Mafia, Avicii entre otros.  
 
 
 
