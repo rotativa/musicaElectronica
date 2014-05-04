@@ -36,7 +36,8 @@ Es muy frecuente el uso de patrones de percusión como congas, toms, bongos pand
 
 
 El bajo ha de tener un patrón que interactúe con la batería de manera agradable y natural.   
-Puede ser sincopado recordando su influencia Disco o con patrones de Funk más elaborados, pero por lo general es un bajo simple, y balanceado con los elementos líderes. (Líder compleja, Bajo simple, y viceversa).    
+Puede ser sincopado recordando su influencia Disco o con patrones de Funk más elaborados, pero por lo general es un bajo simple, y balanceado con los elementos líderes. (Líder compleja, Bajo simple, y viceversa).     
+
 Para subgéneros como el Deep House o Acid House el bajo suele ser aún más simple casi como los bajos del Techno.  
 
 
