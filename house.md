@@ -26,9 +26,7 @@ Proliferaron los productores House, que aportaban sus propias influencias, y té
 
 El house se ha fragmentado en tantos subgéneros que nos es fácil identificar sus atributos. Puede ser funk, vocal, fiestero o simplemente bombeante. La instrumentación suele determinar su estilo.   
 
-Algunos subgéneros:   
-Acid house, deep house, freestyle house, euro-house, Funky House, garage house, soulful house, italo house, minimal house/microhouse, pumpin' house, tribal house,
-Y también  fusiones como:  tech house, electro house, hip house, house-trance, latin house 
+
 
 
 Es  un género de 4/4 y a una velocidad entre 125 y 135 bpm.    
@@ -45,14 +43,21 @@ Puede ser sincopado recordando su influencia Disco o con patrones de Funk más e
 
 Para subgéneros como el Deep House o Acid House el bajo suele ser aún más simple casi como los bajos del Techno.  
 
-En cuanto a sus timbres la variedad es muy amplia, desde una simple onda sinusoidal o sonido 303, hasta un bajo tocado, nuevamente, todo depende del subgénero.   
+En cuanto a sus timbres la variedad es muy amplia, desde una simple onda sinusoidal o sonido 303, hasta un bajo tocado, nuevamente, todo depende del subgénero.     
+ 
+
+
+Algunos subgéneros y artistas House:   
+    
+
+Acid house, deep house, freestyle house, euro-house, Funky House, garage house, soulful house, italo house, minimal house/microhouse, pumpin' house, tribal house,
+Y también  fusiones como:  tech house, electro house, hip house, house-trance, latin house.   
 
 
 
+Artistas:   
 
-
-
-
+Daft punk, Room 5, The supermen Lovers, Modjo, Stardust, Kid Crème, Stylophonic, Roger Sanchez, y algunos actuals como David Guetta, Deadmau5, Hardwell, Swedish House Mafia, Avicii entre otros.
 
 
 
