@@ -2,7 +2,7 @@
 
 ###Trance
 
-Posiblemente es uno de los generos más ambiguos de la música Dance debido a sus múltiples formas y pocos se ponen de acuerdo al hablar de sus límites.  
+Posiblemente es uno de los generos más ambiguos de la música Dance debido a sus múltiples formas, pocos son los que se ponen de acuerdo al hablar de sus límites y caracteristicas.  
 
 El propósito de este género era poner a los asistentes de los clubs en un estado de trance, igual como las tribus de antepasados, con percusiones y alucinógenos.  Solo que ahora los alucinógenos son drogas que el hombre hace y los ritmos son producidos por las maquinas.   
 
