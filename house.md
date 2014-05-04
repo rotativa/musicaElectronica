@@ -40,7 +40,7 @@ Puede ser sincopado recordando su influencia Disco o con patrones de Funk más e
 
 Para subgéneros como el Deep House o Acid House el bajo suele ser aún más simple casi como los bajos del Techno.  
 
-
+En cuanto a sus timbres la variedad es muy amplia, desde una simple onda sinusoidal o sonido 303, hasta un bajo tocado, nuevamente, todo depende del subgénero.   
 
 
 
