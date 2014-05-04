@@ -32,10 +32,13 @@ Su producción se logra usando samples y ajustándolos y con programación Midi.
 
 El ritmo se compone de bombo en negras, redoblante en 2 y 4 negra y el HH puede ser sincopado o con variaciones muy libres pero cercanas a la sincopa.   
 
-Es muy frecuente el uso de patrones de percusión como congas, toms, bongos panderetas y shakers, para agregarle más carácter al ritmo, dependiendo de su subgénero.   
+Es muy frecuente el uso de patrones de percusión como congas, toms, bongos panderetas y shakers, para agregarle más carácter al ritmo, dependiendo de su subgénero.     
 
 
-  
+El bajo ha de tener un patrón que interactúe con la batería de manera agradable y natural.   
+Puede ser sincopado recordando su influencia Disco o con patrones de Funk más elaborados, pero por lo general es un bajo simple, y balanceado con los elementos líderes. (Líder compleja, Bajo simple, y viceversa).    
+Para subgéneros como el Deep House o Acid House el bajo suele ser aún más simple casi como los bajos del Techno.  
+
 
 
 
