@@ -32,13 +32,16 @@ Por eso es comun notar sus movimientos altos y bajos, de largas caídas (Breakdo
 
 ## Análisis
 
-Una de las observaciones más notorias  es el uso de las frases con duración de  4, 8 o 16 compases.
+Oscila entre 130 y 140 bpm y las frases duran de  4, 8 o 16 compases. En su mayoría todas conservan los múltiplos de 8.  
 
-canciones con tempos mayores, más largo serán las frases, pero en su mayoría todas conservan los múltiplos de 8.
-
-Los cambios de energía entre secciones suelen ser muy predecibles, enganchando a la audiencia.
+Los cambios de energía entre secciones suelen ser muy predecibles, para enganchar a la audiencia.
 
 El Trance es de armonía simple y agradable, todo en función de no pensar en nada más que el baile.
+
+
+Su sección rítmica suele ser sencilla, 4/4 con bombo en negras, redoblante en tiempos 2 y 4, y HH en semicorcheas y acento sincopado.  
+No es común encontrar elementos de percusión, porque quita espacio a la melodía líder y distrae.
+
 
 ## Cambio de energía por pasos
 
