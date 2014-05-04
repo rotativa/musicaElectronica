@@ -1,4 +1,3 @@
-<img src="http://i57.tinypic.com/2db7234.jpg" border="0" alt="Image and video hosting by TinyPic">
 
 ###Trance
 
