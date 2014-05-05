@@ -40,7 +40,13 @@ El Trance es de armonía simple y agradable, todo en función de no pensar en na
 
 
 Su sección rítmica suele ser sencilla, 4/4 con bombo en negras, redoblante en tiempos 2 y 4, y HH en semicorcheas y acento sincopado.  
-No es común encontrar elementos de percusión, porque quita espacio a la melodía líder y distrae.
+No es común encontrar elementos de percusión, porque quita espacio a la melodía líder y distrae.   
+
+El bajo de trance por lo general está hecho de patrones simples de corcheas con algo de movimiento, alejándose en lo posible de los lugares donde se encuentre el bombo. Es un juego de una pregunta y respuesta entre el bombo y el bajo.  
+
+Sus notas son de corta duración para darle espacio sonoro a elementos líderes.    
+
+
 
 
 ## Cambio de energía por pasos
