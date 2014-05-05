@@ -1,5 +1,5 @@
 
-###Trance
+#Trance
 
 Nacido en Alemania en los 90s. Es una combinación del industrial, el techno y el house. de caracter energico, fiestero y melódico.   
 
