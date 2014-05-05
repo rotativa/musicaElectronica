@@ -47,7 +47,7 @@ El bajo de trance por lo general está hecho de patrones simples de corcheas con
 Sus notas son de corta duración para darle espacio sonoro a elementos líderes.    
 
 
-La melodía suele ser sencilla, cantable y muy repetitiva, ya que es el motivo principal y debe quedar tatuado en la mente de la audiencia. 
+La melodía suele ser sencilla, cantable y muy repetitiva, ya que es el motivo principal y debe quedar tatuado en la mente de la audiencia. Su sonido es robusto debido a sus múltiples capas tímbricas.   
 
 Los arpegiadores son comunes en trance,  ya sea como líder, como armonía o como los dos.   
 
