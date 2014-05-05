@@ -55,7 +55,9 @@ El empleo de efectos como reverberación y Delay son muy notorios,  proporciona 
 
 Muy importante también el uso del ruido blanco filtrado de manera creativa para generar ambientes ligeros, de vuelo, liberación o tensión.   
 
-Otras características sobresalientes son: 
+Los redobles o *rolls* son otro elemento fundamental del trance.   
+A continuación algunas formas para su empleo:    
+
 
 ## Cambio de energía por pasos
 
