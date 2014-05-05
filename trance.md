@@ -51,7 +51,7 @@ La melodía suele ser sencilla, cantable y muy repetitiva, ya que es el motivo p
 
 Los arpegiadores son comunes en trance,  ya sea como líder, como armonía o como los dos.   
 
-
+Otras características sobresalientes son: 
 
 ## Cambio de energía por pasos
 
