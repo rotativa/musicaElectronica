@@ -51,6 +51,10 @@ La melodía suele ser sencilla, cantable y muy repetitiva, ya que es el motivo p
 
 Los arpegiadores son comunes en trance,  ya sea como líder, como armonía o como los dos.   
 
+El empleo de efectos como reverberación y Delay son muy notorios,  proporciona aire y espacialidad a la canción.  
+
+Muy importante también el uso del ruido blanco filtrado de manera creativa para generar ambientes ligeros, de vuelo, liberación o tensión.   
+
 Otras características sobresalientes son: 
 
 ## Cambio de energía por pasos
