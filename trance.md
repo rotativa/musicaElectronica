@@ -56,7 +56,9 @@ El empleo de efectos como reverberación y Delay son muy notorios,  proporciona 
 Muy importante también el uso del ruido blanco filtrado de manera creativa para generar ambientes ligeros, de vuelo, liberación o tensión.   
 
 Los redobles o *rolls* son otro elemento fundamental del trance.   
-A continuación algunas formas para su empleo:    
+
+A diferencia de mucho generos electrónicos que se basan en repetición de frases, el trance tiende a estar estructurado más como una canción corriente,  con un intro, estrofa, coro y final, con tensiones y clímax muy característicos. 
+   
 
 
 ## Cambio de energía por pasos
@@ -79,7 +81,7 @@ Es una caída de energía que puede ser cortica como una negra o durar algunos c
 
 Su función consiste en decirle a la audiencia que un cambio de energía va a suceder.
 
-Reduccion de energia
+## Reduccion de energia
 
 Quitar varios elementos para reducir energía puede ser un poco abrupto. una forma es añadiendo un elemento nuevo un par de compases antes, para se suavice el cambio y sirva como conector.
 
