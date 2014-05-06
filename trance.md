@@ -88,6 +88,13 @@ Quitar varios elementos para reducir energía puede ser un poco abrupto. una for
 Otra forma es usar un falso cambio de energía en rampa hacia arriba y lo recibe un impacto contundente con mucha reverb y/o delay.
 
 
+## Artistas con fuerte influencia trance:
+
+Ferry Corsten
+Redd Square
+Binary Finery
+Sasha
+Dj Sammy
 
 
 
