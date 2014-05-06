@@ -90,12 +90,12 @@ Otra forma es usar un falso cambio de energía en rampa hacia arriba y lo recibe
 
 ## Artistas con fuerte influencia trance:
 
-Ferry Corsten
-Redd Square
-Binary Finery
-Sasha
-Dj Sammy
-
+Ferry Corsten   
+Redd Square   
+Binary Finery   
+Sasha   
+Dj Sammy   
+  
 
 
 
