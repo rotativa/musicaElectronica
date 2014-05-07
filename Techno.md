@@ -10,3 +10,7 @@ Inspirados en esta tecnica empezaron a darle forma a su propia música con equip
 con los años el Techno muto hacia un sonido más minimalista e hipnótico, por la influencia de las drogas del momento.
 
 ## Analisis
+
+El Techno es un género atonal y de abundancia en elementos de percusión como aspecto vital.  
+Es una colección de texturas programadas finamente en vez de componentes melódicos.  
+Esto significa que es un género muy amigable para los djs ya que está pensado y compuesto para que se pueda mezclar y sobreponerse una canción con otra sin mucho riesgo de disonancias.   
