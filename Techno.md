@@ -14,3 +14,11 @@ con los años el Techno muto hacia un sonido más minimalista e hipnótico, por 
 El Techno es un género atonal y de abundancia en elementos de percusión como aspecto vital.  
 Es una colección de texturas programadas finamente en vez de componentes melódicos.  
 Esto significa que es un género muy amigable para los djs ya que está pensado y compuesto para que se pueda mezclar y sobreponerse una canción con otra sin mucho riesgo de disonancias.   
+
+
+Su producción es un poco diferente a otros generos Dance.  Suele hacerse mediante la sincronización de secuenciadores y la  consolacambia a un uso más creativo que conservador, logrando nuevos Fx y ambientes al sonido.  
+El fundamento del Techno consiste en la suma de múltiples loops, generando transformaciones rítmicas cada vez más complejas. 
+Cada elemento se despeja tímbricamente para poder ser sumado con otros
+
+Su estructura no es convencional, con estrofa y coros,  más bien es un  juego de componentes que entran y salen para generar  diferentes ambientes, y con la ayuda imprescindible de Fx para romper la monotonía.  
+Es un nivel rítmico constante que se va volviendo interesante.  
