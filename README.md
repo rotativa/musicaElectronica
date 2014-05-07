@@ -7,6 +7,8 @@
 * [Drum&Bass](drumBass.md)
 * [Trance](trance.md)
 * [Dub](dub.md)
+* [Techno](Techno.md)
+
 * [Dubstep](dubstep.md)
 * [IDM](idm.md)
 * [Ambient](ambient.md)
