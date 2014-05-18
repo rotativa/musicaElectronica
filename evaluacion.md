@@ -95,7 +95,8 @@ Media alta para el inexperto.  Media baja para el conocedor
 
 
 
-##  Conclusiones sobre las dos charlas de Pipe Carmona: secuenciadores y los sonidos del futuro.
+####  Conclusiones sobre las dos charlas de Pipe Carmona: secuenciadores y los sonidos del futuro.
+__Johnny__
 -> Pipe carmona es un gran conocedor de esta temática, en algunas ocasiones los "chistes" ya eran demasiados, creo que moderadamente suelen ser muy positivos, muchos distraen. Palabras como "chuflin" deben omitidas y reemplazadas por otras que representen la finalidad de usar la palabra.
 
 -> No estoy seguro si Kevin Sauderson, Derrick May y Juan Atkins, la santa trinidad del techno como son llamados por ser precursores de este genero, estuvieran drogados o alcoholizados para haber creado este genero. Además, a mi parecer, "cybotron" que fue la banda que hicieron ellos tres muy influenciada por los alemanes kraftwerk, no creo que haya salido de sentarse con un porro y ya. 
@@ -107,3 +108,12 @@ Media alta para el inexperto.  Media baja para el conocedor
 -> Me parece excelente que use experiencias personales para contestar preguntas muy técnicas, eso, es un plus extra que se le da a este tipo de charlas.Por ejemplo lo del side chain a la frecuencia, respuesta que uso para contestar una pregunta, además que fue algo que uso para su banda artefacto.
 
 -> En general la charla estuvo muy bien, amena y entretenida. Nos reímos, aprendimos y además el titulo era muy prometedor, tanto, que una charla de dos horas fue sostenida con un track realizado en 20 minutos. El reason me pareció sencillo y yo quede con sensación de "queremos más"
+
+__fede__
+-> Muy buen dominio del público, la charla fue agradable, la interacción con las preguntas fue muy buena.
+
+-> los ejemplos de tonalidades menores podrían ser más explicitos.
+
+-> De acuerdo con johnny sobre las drogas, por momentos parecía que las drogas eran requerimiento para esta música, o para definirla técnicamente, contribuyendo a la estigmatización.
+No es negar el tema pero tampoco amplificarlo y tratar de mostrar los otros motivantes de la aparición de los géneros, para tener un panorama más amplio.
+
