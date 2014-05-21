@@ -1,10 +1,11 @@
 
+# Destrezas para ejercitar
 
-# destrezas para ejercitar
 
-
-Diferenciacion de generos: (Entrenamiento auditivo)  
-Ritmos  
-Sintesis  
+Diferenciación de géneros: (Entrenamiento auditivo)  
+Ritmos y sincopas  
+Síntesis  
 Layering (Capas)  
+
+
 
