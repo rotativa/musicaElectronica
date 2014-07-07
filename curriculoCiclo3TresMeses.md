@@ -20,7 +20,7 @@ __Semana 7__ Innovación
 * Por las fronteras
 * Por investigación
 
-___Semana 8__ Ruido
+___Semana 8___ Ruido
 * Aleatorio
 * Controlado
 
