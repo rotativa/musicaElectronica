@@ -1,4 +1,4 @@
-## Juegos de Grooves para aprendizaje de música electrónica.
+## Juegos y Grooves para aprendizaje de música electrónica.
 
 
 
