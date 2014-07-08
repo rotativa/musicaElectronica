@@ -1,4 +1,4 @@
-__Semana 1__ [Groove (agitación)](https://github.com/electropipe/Juegos.md)   
+__Semana 1__ [Groove (agitación)](Semana1_Groove.md)   
         http://en.wikipedia.org/wiki/Groove_%28music%29
 
 __Semana 2__ Alturas (Melodía)
