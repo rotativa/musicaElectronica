@@ -54,6 +54,14 @@ Condiciones: instrumento mínimo personal o percusión corporal.
 <img src="http://i61.tinypic.com/2ilow43.jpg" border="0" alt="Image and video hosting by TinyPic"></a>   
 <img src="http://i58.tinypic.com/1sdp95.jpg" border="0" alt="Image and video hosting by TinyPic"></a>   
 
+Repertorio
+
+[Cancion 1](https://www.youtube.com/watch?v=h5EofwRzit0)  
+[Cancion 2](https://www.youtube.com/watch?v=s9MszVE7aR4)
+[Cancion 3](https://www.youtube.com/watch?v=f6ZAo1hmpVQ)
+[Cancion 4](https://www.youtube.com/watch?v=uSD4vsh1zDA)
+
+
 Empezamos con bombo en negras como base.  
 
 Añadimos redoblante   
