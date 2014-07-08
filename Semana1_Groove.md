@@ -52,6 +52,7 @@ Crear partituras juntando varias palabras, Hacer frases.
 Condiciones: instrumento mínimo personal o percusión corporal.  
 
 <img src="http://i61.tinypic.com/2ilow43.jpg" border="0" alt="Image and video hosting by TinyPic"></a>   
+<img src="http://i58.tinypic.com/1sdp95.jpg" border="0" alt="Image and video hosting by TinyPic"></a>   
 
 Empezamos con bombo en negras como base.  
 
