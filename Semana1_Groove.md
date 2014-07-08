@@ -57,9 +57,9 @@ Condiciones: instrumento mínimo personal o percusión corporal.
 Repertorio
 
 [Cancion 1](https://www.youtube.com/watch?v=h5EofwRzit0)  
-[Cancion 2](https://www.youtube.com/watch?v=s9MszVE7aR4)
-[Cancion 3](https://www.youtube.com/watch?v=f6ZAo1hmpVQ)
-[Cancion 4](https://www.youtube.com/watch?v=uSD4vsh1zDA)
+[Cancion 2](https://www.youtube.com/watch?v=s9MszVE7aR4)  
+[Cancion 3](https://www.youtube.com/watch?v=f6ZAo1hmpVQ)  
+[Cancion 4](https://www.youtube.com/watch?v=uSD4vsh1zDA)  
 
 
 Empezamos con bombo en negras como base.  
