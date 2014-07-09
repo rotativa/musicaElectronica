@@ -20,3 +20,14 @@ El líder hace una melodía sencilla y cada alumno debe esforzarse por responder
 
 **Variación:** 
 Con los participantes en círculo se intercalan los roles de preguntas y respuestas, procurando tensión y resolución.  
+
+
+## Melodía Armonizada     
+
+Aprenderse una melodía          
+Participante 1: toca la melodía     
+Participante 2: toca las terceras de la melodía     
+Participante 3: toca las quintas     
+Participante 4: toca las séptimas     
+Participante 5: toca la octava     
+…Y así sucesivamente.
