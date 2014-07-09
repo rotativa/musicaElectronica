@@ -31,3 +31,10 @@ Participante 3: toca las quintas
 Participante 4: toca las séptimas     
 Participante 5: toca la octava     
 …Y así sucesivamente.
+
+## Batería Melódica   
+Pasar  patrones de Drum machine a notas       
+Un integrante cumple el rol del Bombo con la nota C    
+Un integrante cumple el rol del Redo con la nota E     
+Un integrante cumple el rol del Charles con la nota G   
+Un integrante cumple el rol de la percusión con la nota B        
