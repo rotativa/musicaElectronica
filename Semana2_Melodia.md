@@ -9,5 +9,5 @@ Empieza el primero con su nota,  luego se van sumando los demás con sus notas c
 
 
 ## Seguimiento.
-Una persona se hace en el centro y se convierte en Líder. Este hace una melodía que dure un compás y los demás lo siguen en el siguiente.   La idea es basarse solo con el oído. Para esto se empieza con tres notas (C D E)  haciendo escalera y se va incrementando la dificultad.
+Una persona se hace en el centro y se convierte en Líder. Este hace una melodía que dure un compás y los demás lo siguen en el siguiente.   La idea es basarse solo con el oído. Para esto se empieza con tres notas (C-D-E)  haciendo escalera y se va incrementando la dificultad.
 Luego se van añadiendo mas notas hasta llegar a cromatismos y rítmicas complejas dado el caso.   
