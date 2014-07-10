@@ -3,7 +3,7 @@ __Semana 1__ [Groove (agitación)](Semana1_Groove.md)
 
 __Semana 2__ [Alturas (Melodía)](Semana2_Melodia.md)
 
-__Semana 3__  Densidad (Armonía)
+__Semana 3__ [Densidad (Armonía)](Semana3 Armonia.md)
 
 __Semana 4__ Timbre (color/textura)
 * Filtros
