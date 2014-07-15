@@ -42,6 +42,9 @@ Silenciar silabas
 
 Crear partituras juntando varias palabras, Hacer frases.  
 
+**Rezar las silabas**  
+Cuando hay dificultades de afinación entre los participantes, una opción es rezar las silabas.      
+
   
 
 ## Entrenador de ritmos   
