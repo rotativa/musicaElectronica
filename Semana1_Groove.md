@@ -75,6 +75,14 @@ Los participantes cambian de instrumentos
 Añadimos una variación para cada instrumento.   
 
 
+## Ecos rítmicos      
+El líder hace una figura rítmica (con palmas o con el instrumento mínimo), y  los demás lo repiten con la mayor exactitud posible.
+Se puede  hacer por grupal, por parejas o un equipo contra otro.      
+
+## Seguimiento + 1      
+Es igual a los ecos rítmicos pero el líder cada vez añade algo nuevo.        
+
+
 ## Pregunta y respuesta   
 
 Improvisación rítmica.   
