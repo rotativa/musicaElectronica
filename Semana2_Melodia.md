@@ -38,3 +38,12 @@ Un integrante cumple el rol del Bombo con la nota C
 Un integrante cumple el rol del Redo con la nota E     
 Un integrante cumple el rol del Charles con la nota G   
 Un integrante cumple el rol de la percusión con la nota B        
+
+## Referentes para ilustrar el uso de la melodía en la música elecctrónica bailable
+### Melodías cortas
+* Funky Town ( http://youtu.be/xF77Y1JLScc )
+* The Seebach Band - Bubble Sex ( http://youtu.be/36G_4cCNh5k )
+
+
+### Bajo ymelodía unidos como único elemento 
+* Benni Benassi - Satisfaction ( http://youtu.be/V5bYDhZBFLA )
