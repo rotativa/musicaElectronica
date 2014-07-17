@@ -106,7 +106,10 @@ Jams sobre un patrón previamente establecido
 Repertorios
 Charla ted sobre Chuck   
 Cancionero Canto alegre adaptado a música electrónica.
-Recordar didácticas de pedagogía de canto alegre..  las carticas de palabras por ejemplo   
+Recordar didácticas de pedagogía de canto alegre..  las carticas de palabras por ejemplo 
+
+### Investigación
+ http://en.wikipedia.org/wiki/Groove_%28music%29
 
 
 
