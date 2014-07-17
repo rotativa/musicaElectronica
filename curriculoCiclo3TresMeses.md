@@ -1,5 +1,5 @@
 __Semana 1__ [Groove (agitación)](Semana1_Groove.md)   
-        http://en.wikipedia.org/wiki/Groove_%28music%29
+       
 
 __Semana 2__ [Alturas (Melodía)](Semana2_Melodia.md)
 
