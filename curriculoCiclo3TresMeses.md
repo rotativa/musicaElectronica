@@ -1,11 +1,11 @@
-__Semana 1__ [Groove (agitación)](Semana1_Groove.md)   
+__Semana 1__ [Groove (Ritmo/Agitación)](Semana1_Groove.md)   
        
 
 __Semana 2__ [Alturas (Melodía)](Semana2_Melodia.md)
 
 __Semana 3__ [Densidad (Armonía)](Semana3 Armonia.md)
 
-__Semana 4__ [Timbre (color/textura)](Semana 4 Timbre.md)
+__Semana 4__ [Timbre (Color/Textura)](Semana 4 Timbre.md)
 * Filtros
 * Armónicos
 * Sub-Bajos
