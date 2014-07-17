@@ -49,3 +49,22 @@ Ejemplo:  Senoidal, Cuadrada, sierra, triangular, pulso. Etc.!
 Explicar como una onda senoidal se convierte en cuadrada con ayuda de la saturación     
 Explicar como de una onda senoidal, parten las demás ondas.      
 
+
+Filtros
+Explicar que son los filtros y observar como afectan en un sonido, con ayuda de un analizador de espectro   
+Familiarizarse con términos básicos:   
+Frecuencia   
+Cutoff   
+resonancia  
+Ancho o Q  
+Db por octava.  
+
+##Tipos de Filtro:  
+
+Lowpass   
+Highpass   
+Bandpass   
+Lowpass   
+Comb Filter   
+Band Reject   
+
