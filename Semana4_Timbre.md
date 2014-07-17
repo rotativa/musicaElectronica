@@ -24,8 +24,13 @@ Semillas ...etc.
 
 
 
+Se suenan todos y después se pregunta:  
+En que vaso están los tornillos?       
+Que vaso suena más suave?                   
+Cual suena más delgado?            
+Cual mas grave?         
+Cual mas agradable? y porque?  ...etc     
 
-Se suenan todos y después se pregunta:  en que vaso están los torillos?   
 
 
 ###Director Pulpo!
