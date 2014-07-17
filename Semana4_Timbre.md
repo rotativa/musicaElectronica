@@ -38,10 +38,12 @@ Cual mas agradable? y porque?  ...etc
 Asignar varios instrumentos a las extremidades del director.  El director hace su partitura y los niños la siguen con sus instrumentos.
 Otros niños pueden cerrar los ojos y adivinar el orden en que suenan las cosas.
 
+----
 
-Armónicos: (Publico mayor)
-Mostrar diferentes tipos de onda en un analizador de espectro y familiarizarse un poco con sus nombres.
-Ejemplo:  Senoidal, Cuadrada, sierra, triangular, pulso. Etc.!
-Explicar como una onda senoidal se convierte en cuadrada con ayuda de la saturación 
-Explicar como de una onda senoidal, parten las demás ondas.
+##Armónicos: (Publico mayor)     
+
+Mostrar diferentes tipos de onda en un analizador de espectro y familiarizarse un poco con sus nombres.    
+Ejemplo:  Senoidal, Cuadrada, sierra, triangular, pulso. Etc.!   
+Explicar como una onda senoidal se convierte en cuadrada con ayuda de la saturación     
+Explicar como de una onda senoidal, parten las demás ondas.      
 
