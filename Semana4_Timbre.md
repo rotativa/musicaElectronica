@@ -40,7 +40,9 @@ Otros niños pueden cerrar los ojos y adivinar el orden en que suenan las cosas.
 
 ----
 
-##Armónicos: (Publico mayor)     
+##Armónicos:
+
+**(Publico mayor)**     
 
 Mostrar diferentes tipos de onda en un analizador de espectro y familiarizarse un poco con sus nombres.    
 Ejemplo:  Senoidal, Cuadrada, sierra, triangular, pulso. Etc.!   
