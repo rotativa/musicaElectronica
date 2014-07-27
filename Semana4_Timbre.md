@@ -52,6 +52,11 @@ Explicar como de una onda senoidal, parten las demás ondas.
 
 Filtros
 Explicar que son los filtros y observar como afectan en un sonido, con ayuda de un analizador de espectro   
+Generar ruido rosa y filtrar altos, bajos, medios   
+Reproducir música y filtrar altos, bajos, medios   
+Reproducir varios instrumentos y filtrar altos, bajos, medios   
+Escuchar referentes
+
 Familiarizarse con términos básicos:   
 Frecuencia   
 Cutoff   
@@ -64,7 +69,7 @@ Db por octava.
 Lowpass   
 Highpass   
 Bandpass   
-Lowpass   
+Shelving   
 Comb Filter   
 Band Reject   
 
