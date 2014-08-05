@@ -73,3 +73,9 @@ Shelving
 Comb Filter   
 Band Reject   
 
+## Armonicos 
+
+<img src="http://i59.tinypic.com/23hlmau.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<img src="http://i57.tinypic.com/2i06ukg.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
