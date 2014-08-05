@@ -10,7 +10,7 @@ __Semana 4__ [Timbre (Color/Textura)](Semana4_Timbre.md)
 * [Armónicos](https://github.com/electropipe/musicaElectronica/blob/master/Semana4_Timbre.md#armonicos)
 * Sub-Bajos
 
-__Semana 5__ Ambientación (espacialidad)
+__Semana 5__ [Ambientación (espacialidad)](Semana5_Ambientación.md)
 
 __Semana 6__ Transientes (Ataque de las notas)
 
