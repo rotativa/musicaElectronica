@@ -6,7 +6,7 @@ __Semana 2__ [Alturas (Melodía)](Semana2_Melodia.md)
 __Semana 3__ [Densidad (Armonía)](Semana3_Armonia.md)
 
 __Semana 4__ [Timbre (Color/Textura)](Semana4_Timbre.md)
-* Filtros
+* [Filtros](https://github.com/electropipe/musicaElectronica/blob/master/Semana4_Timbre.md#tipos-de-filtro)
 * Armónicos
 * Sub-Bajos
 
