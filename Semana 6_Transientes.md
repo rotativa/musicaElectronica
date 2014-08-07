@@ -1,6 +1,8 @@
 Los transientes son una caracteristica del sonido que describe el comportamiento del volumen mientras dura dicho sonido.
 consta generalmente de 4 partes fundamentales:
 
+<img src="http://i61.tinypic.com/14buqf.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 ##El ataque (A)     
 Momento inicial del sonido
 
