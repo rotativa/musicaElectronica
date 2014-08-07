@@ -12,7 +12,7 @@ __Semana 4__ [Timbre (Color/Textura)](Semana4_Timbre.md)
 
 __Semana 5__ [Ambientación (espacialidad)](Semana5_Ambientación.md)
 
-__Semana 6__ Transientes (Ataque de las notas)
+__Semana 6__ [Transientes (Ataque de las notas)](Semana 6_Transientes.md)
 
 __Semana 7__ Innovación
 * Por negación
