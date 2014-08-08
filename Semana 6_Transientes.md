@@ -15,3 +15,12 @@ Se debe mirar como un nivel de volumen y no un factor de tiempo
 ##Liberacion o Release (R)     
 es similar al decaimiento, solo que esta ubicado al final de un sonido.
 
+
+#Juegos
+
+
+##Oido Ninja 
+
+Escuchar sonidos y determinar como es su ataque y su release mediante cartas con dibujos de Ataque y Release.
+si es en grupos, se van eliminando hasta que quede el ganador.
+
