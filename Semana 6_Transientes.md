@@ -18,9 +18,17 @@ es similar al decaimiento, solo que esta ubicado al final de un sonido.
 
 #Juegos
 
+##Radiografias Sonoras
+
+Escuchar sonidos de la naturaleza y cotidianos identificarlos y dibujar un ADSR a la manera de cada uno.
+y luego debatir y diferenciar las partes en cada dibujo.
+
+Ejemplo:
+
+<img src="http://i58.tinypic.com/30ua135.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 ##Oido Ninja 
 
-Escuchar sonidos y determinar como es su ataque y su release mediante cartas con dibujos de Ataque y Release.
+Escuchar sonidos extraños y determinar como es su ataque y su release mediante cartas con dibujos de Ataque y Release.
 si es en grupos, se van eliminando hasta que quede el ganador.
 
