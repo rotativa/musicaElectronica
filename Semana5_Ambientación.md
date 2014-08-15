@@ -15,8 +15,8 @@ Construir un acorde y delegar cada nota a un instrumento diferente. Hacer poliri
 
 Enseñar la diferencia entre centro, derecha e izquierda y por ultimo conceptos de sonidos monofónicos y estereofónicos.
 
-**Aunque un sonido se perciba por audifononos por izquierda y derecha, no significa que es estereo.  
-Solo es estereo si la informacion es diferente en izquierda y derecha**
+*Aunque un sonido se perciba por audifononos por izquierda y derecha, no significa que es estereo.  
+Solo es estereo si la informacion es diferente en izquierda y derecha*
 
 <img src="http://i62.tinypic.com/2hxxfnt.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
