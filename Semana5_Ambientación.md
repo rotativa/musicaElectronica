@@ -20,8 +20,8 @@ Solo es estéreo si la información es diferente en izquierda y derecha*
 
 <img src="http://i62.tinypic.com/2hxxfnt.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Si quisiéramos que un sonido igual en ambos lados lo convirtiéramos en estéreo, debemos crear diferencia en alguno de sus lados.
-Retrasar o adelantar cualquier lado, por algunos milisegundos, permite lograr un carácter estéreo. Puesto que la información en ambos lados ahora es diferente. 
+*Si quisiéramos que un sonido igual en ambos lados lo convirtiéramos en estéreo, debemos crear diferencia en alguno de sus lados.
+Retrasar o adelantar cualquier lado, por algunos milisegundos, permite lograr un carácter estéreo. Puesto que la información en ambos lados ahora es diferente.* 
 
 
 ##Capas 
