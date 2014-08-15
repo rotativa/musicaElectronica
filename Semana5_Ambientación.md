@@ -27,3 +27,5 @@ Retrasar o adelantar cualquier lado, por algunos milisegundos, permite lograr un
 ##Capas 
 
 Tocar una melodía con varios instrumentos melódicos y jugar quitándolos y juntándolos para lograr contundencia y diferentes texturas
+
+<img src="http://i59.tinypic.com/9gvwcy.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
