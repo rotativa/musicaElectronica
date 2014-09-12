@@ -14,28 +14,29 @@ __Semana 5__ [Ambientación (espacialidad)](Semana5_Ambientación.md)
 
 __Semana 6__ [Transientes (Ataque de las notas)](Semana 6_Transientes.md)
 
-__Semana 7__ Innovación
-* Por negación
-* Por fusión
-* Por las fronteras
-* Por investigación
-
-___Semana 8___ Ruido
-* Aleatorio
-* Controlado
-
-__Semana 9__ Algoritmos
-
-__Semana 10__ Estructuras
+__Semana 7__ Estructuras
 * Lineales
 * Patrones
 * Generativas
 
-__Semana 11__ Emotividad
+__Semana 8__ Emotividad
 * Introducciones
 * Fills
 * Interludios
 * Contrastes
 * Finales
+
+___Semana 9___ Ruido
+* Aleatorio
+* Controlado
+
+__Semana 10__ Innovación
+* Por negación
+* Por fusión
+* Por las fronteras
+* Por investigación
+
+__Semana 11__ Algoritmos
+
 
 __Semana 12__ Muestra de trabajos
