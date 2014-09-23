@@ -3,10 +3,11 @@
 ------
 
 **Felipe Carmona - Orquidea**
-
-
+*  duracion
+      5:39
 **Felipe Carmona - La Ultima Granada**
-
+*duracion:
+      4:50
 **The Black Eyed Peas - I gotta feeling**
 
 * Tempo: **128bpm**
