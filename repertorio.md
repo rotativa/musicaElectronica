@@ -4,10 +4,11 @@
 
 **Felipe Carmona - Orquidea**
 * 5:39 seg
+*  do sostenido menor
 
 **Felipe Carmona - La Ultima Granada**
 * 4:50 seg
- 
+* re menor 
 
 **The Black Eyed Peas - I gotta feeling**
 
