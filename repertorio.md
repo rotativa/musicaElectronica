@@ -1,5 +1,5 @@
 # Repertorio
-### Casa de Experimentos
+### Programa: Introducción a la música electrónica
 ------
 
 **Felipe Carmona - Orquidea**
